@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Bacterial cell
-nav_order: 2
-permalink: docs/Physics/microyz
-parent: Available geometries
+nav_order: 3
+permalink: docs/Chemistry/chem6
+parent: Chemistry
 ---
 <!-- Need to import MathJax for this post -->
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>

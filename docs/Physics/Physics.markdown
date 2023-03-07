@@ -2,9 +2,8 @@
 layout: default
 title: Physics
 nav_order: 2
-parent: docs/Physics
 has_children: true
-parent: docs
+parent: docs/Physics
 
 ---
 ## Table of contents

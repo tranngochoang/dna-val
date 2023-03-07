@@ -1,10 +1,9 @@
 ---
 layout: default
 title: BioGeometry
-permalink: docs/BioGeometry
-has_children: true
 nav_order: 4
-parent: docs
+has_children: true
+permalink: docs/BioGeometry
 ---
 
 # Available DNA geometries

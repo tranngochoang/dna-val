@@ -30,7 +30,7 @@ github_username:  tranngochoang
 # logo: "/assets/images/dna-emoji.png"
 
 # Build settings
-theme: jekyll-theme-primer
+theme: just-the-docs
 plugins:
   - jekyll-feed
 

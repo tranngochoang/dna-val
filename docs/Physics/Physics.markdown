@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Physics
-nav_order: 3
+nav_order: 2
 parent: docs/Physics
 has_children: true
 parent: docs

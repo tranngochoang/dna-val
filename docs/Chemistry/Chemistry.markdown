@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chemistry
-nav_order: 2
+nav_order: 3
 permalink: docs/Chemistry
 has_children: true
 parent: docs

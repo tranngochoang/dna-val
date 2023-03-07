@@ -1,10 +1,9 @@
 ---
 layout: default
 title: moleculardna
-permalink: docs/BioGeometry/moleculardna
 nav_order: 1
 parent: BioGeometry
-
+permalink: docs/BioGeometry/moleculardna
 ---
 
 # Available DNA geometries

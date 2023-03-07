@@ -5,7 +5,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: molecularDNA allows easy simulation of radiation-induced DNA damage with flexible geometries damage parameters.
+description: This is dna-val 
 permalink: /
 ---
 
@@ -14,4 +14,4 @@ permalink: /
 
 
 
-Want to know more about how it all works? You'll want to visit our [Overview]( {{ "docs/overview" | relative_url }} ) page.
+Want to know more about how it all works? You'll want to visit our page.

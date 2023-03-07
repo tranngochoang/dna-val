@@ -14,12 +14,4 @@ permalink: /
 
 
 
-![humanCell]({{"/assets/images/humanCell.png" | relative_url}})
-{: .text-center}
-[human cell example]({{"/docs/examples/human-cell" | relative_url}})
-
-[Get started from example]( {{ "/docs/source" | relative_url }} ){: .btn .btn-purple }
-[See publications]({{ "docs/publications" | relative_url }} ){: .btn .btn-blue }
-[Available geometries]( {{ "docs/examples" | relative_url }} ){: .btn .btn-green }
-
 Want to know more about how it all works? You'll want to visit our [Overview]( {{ "docs/overview" | relative_url }} ) page.

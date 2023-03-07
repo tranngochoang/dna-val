@@ -13,3 +13,8 @@ permalink: docs/Physics/microyz
 
 
 
+
+![y-value]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz.pdf" | relative_url}})
+{: .text-left}
+
+

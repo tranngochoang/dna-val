@@ -9,7 +9,7 @@ description: This is dna-val
 permalink: /
 ---
 
-# dna-val
+# DNA-val
 {: .fs-9 }
 
 

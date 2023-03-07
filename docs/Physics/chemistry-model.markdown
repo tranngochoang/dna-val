@@ -2,7 +2,7 @@
 layout: default
 title: Chemistry model
 nav_order: 3
-parent: Overview
+parent: docs
 ---
 ## Table of contents
 {: .no_toc .text-delta }

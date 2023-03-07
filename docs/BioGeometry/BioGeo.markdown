@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Available geometries
-permalink: docs/examples
+permalink: docs/BioGeometry
 has_children: true
 nav_order: 3
 ---

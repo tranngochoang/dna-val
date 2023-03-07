@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Bacterial cell
+title: Chemistry
 nav_order: 2
 permalink: docs/Chemistry
-parent: Available geometries
+has_children: true
+parent: docs
 ---
 <!-- Need to import MathJax for this post -->
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>

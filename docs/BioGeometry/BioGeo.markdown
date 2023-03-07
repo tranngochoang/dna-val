@@ -4,7 +4,7 @@ title: BioGeometry
 permalink: docs/BioGeometry
 has_children: true
 nav_order: 2
-
+parent: docs
 ---
 
 # Available DNA geometries

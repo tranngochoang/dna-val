@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Chemistry model
+title: microyz
 nav_order: 3
-parent: docs/Physics/microyz
+parent: docs/Physics
+permalink: docs/Physics/microyz
+
 ---
 ## Table of contents
 {: .no_toc .text-delta }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bacterial cell
+title: chem6
 nav_order: 3
 permalink: docs/Chemistry/chem6
 parent: Chemistry

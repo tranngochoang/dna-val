@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Available geometries
+title: moleculardna
 permalink: docs/BioGeometry/moleculardna
 has_children: true
-nav_order: 3
+nav_order: 2
 ---
 
 # Available DNA geometries

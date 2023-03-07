@@ -2,8 +2,8 @@
 layout: default
 title: moleculardna
 permalink: docs/BioGeometry/moleculardna
-nav_order: 3
-parent: docs/BioGeometry
+nav_order: 1
+parent: BioGeometry
 
 ---
 

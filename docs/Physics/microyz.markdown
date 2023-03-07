@@ -2,9 +2,8 @@
 layout: default
 title: microyz
 nav_order: 1
-parent: docs/Physics
+parent: Physics
 permalink: docs/Physics/microyz
-
 ---
 ## Table of contents
 {: .no_toc .text-delta }

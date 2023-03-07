@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/dna-val" # the subpath of your site, e.g. /blog
 url: "https://tranngochoang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # url: "http://localhost:4000"
-twitter_username: geant4dna
-github_username:  geant4dna
+twitter_username: tranngochoang
+github_username:  tranngochoang
 # logo: "/assets/images/dna-emoji.png"
 
 # Build settings
@@ -62,10 +62,8 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "molecularDNA on GitHub":
-    - "https://github.com/geant4-dna/molecular-docs"
-  "The Geant4-DNA Project":
-    - "http://geant4-dna.in2p3.fr/index.html"
+  "dna-val on GitHub":
+    - "https://github.com/tranngochoang/dna-val"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 

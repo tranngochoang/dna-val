@@ -6,8 +6,9 @@ parent: BioGeometry
 permalink: docs/BioGeometry/moleculardna
 ---
 
-# Available DNA geometries
+# cylinders.mac
 {: .no-toc}
 
-The available DNA geometries are controlled by macro files included in molecularDNA. 
+![Energy]({{"assets/moleculardna.pdf" | relative_url}})
+{: .text-left}
 

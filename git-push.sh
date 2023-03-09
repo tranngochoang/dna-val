@@ -5,8 +5,8 @@ git commit -m"${message}"
 if [ -n "$(git status - porcelain)" ];
 then
  echo "IT IS CLEAN"
+  echo "Pushing data!!!"
+  git push https://github.com/tranngochoang/dna-val.git
 else
  git status
- echo "Pushing data!!!"
- push https: //github.com/tranngochoang/dna-val.git
 fi

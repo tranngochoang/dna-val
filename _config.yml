@@ -18,14 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DNA-val
+title: DNA-validation
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "/dna-val" # the subpath of your site, e.g. /blog
 url: "https://tranngochoang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# url: "http://localhost:4000"
-# twitter_username: tranngochoang
 github_username:  tranngochoang
 # logo: "/assets/images/dna-emoji.png"
 
@@ -65,6 +63,10 @@ search:
 aux_links:
   "dna-val on GitHub":
     - "https://github.com/tranngochoang/dna-val"
+  "Geant4-DNA":
+    - "http://geant4-dna.org"
+  "Question":
+    - "https://geant4-forum.web.cern.ch"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 

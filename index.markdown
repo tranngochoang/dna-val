@@ -9,9 +9,7 @@ description: This is dna-val
 permalink: /
 ---
 
-# DNA-val
+# DNA-validation
 {: .fs-9 }
 
-
-
-Want to know more about how it all works? You'll want to visit our page.
+The main objective is to validate Geant4-DNA using Geant-val [Freyermuth et al.]({{"https://doi.org/10.1051/epjconf/201921405002"| relative_url}})), which involves running test code locally on lp2i systems for verification purposes.

@@ -25,8 +25,8 @@ permalink: docs/BioGeometry/moleculardna
 /dnageom/checkOverlaps false
 /scheduler/endTime 1 us
 
-/dnageom/radicalKillDistance %RADICALKILLD% nm
-/dnageom/interactionDirectRange %interacDirectR% angstrom
+/dnageom/radicalKillDistance 9 nm
+/dnageom/interactionDirectRange 6.5 angstrom
 
 /dnageom/placementSize 30 30 100 nm
 /dnageom/fractalScaling 1 1 1 nm
@@ -80,10 +80,10 @@ permalink: docs/BioGeometry/moleculardna
 /gps/pos/shape Sphere
 /gps/pos/radius 500 nm
 /gps/pos/centre 0 0 0 nm
-/run/beamOn %NEVENTS%
+/run/beamOn 100000
 
 ```
-## geant4-dev
+## MyTag = geant4-dev 
 ![Energy]({{"/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna.png" | relative_url}})
 {: .text-left}
 

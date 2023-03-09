@@ -83,7 +83,7 @@ permalink: docs/BioGeometry/moleculardna
 /run/beamOn 100000
 
 ```
-## MyTag = geant4-dev 
+## MyTag
 ![Energy]({{"/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna.png" | relative_url}})
 {: .text-left}
 

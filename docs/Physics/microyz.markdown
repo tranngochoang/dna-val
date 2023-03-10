@@ -50,5 +50,6 @@ Macro file
 ![y-value]({{"assets/OUTPUTJSON/_MyTag_304_11.1.0microyz_[dna_opt4].png" | relative_url}})
 {: .text-left}
 
-303_11.1.0 4 : dna_opt4 in version G4.11.1.0
-MyTag 2 : dna_opt2 in version MyTag
+- 303_11.1.0 4 : dna_opt4 in version G4.11.1.0
+
+- MyTag 2 : dna_opt2 in version MyTag

@@ -93,5 +93,5 @@ MyTag 2 : dna_opt2 in version MyTag
 {: .text-left}
 303_11.1.0 4 : dna_opt4 in version G4.11.1.0
 ## dna_opt4
-![Energy]({{"assets/OUTPUTJSON/MyTag_304_11.1.0moleculardna-[dna_opt4].png" | relative_url}})
+![Energy]({{"assets/OUTPUTJSON/_MyTag_304_11.1.0moleculardna__dna_opt4.png" | relative_url}})
 {: .text-left}

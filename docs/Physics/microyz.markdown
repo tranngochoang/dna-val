@@ -47,7 +47,7 @@ Macro file
 
 ## dna_opt4
 
-![y-value]({{"assets/OUTPUTJSON/_MyTag_304_11.1.0microyz__dna_opt4.png" | relative_url}})
+![y-value]({{"assets/OUTPUTJSON/MyTag_304_11.1.0microyz__dna_opt4.png" | relative_url}})
 {: .text-left}
 
 - 303_11.1.0 4 : dna_opt4 in version G4.11.1.0

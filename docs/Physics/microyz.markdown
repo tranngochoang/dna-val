@@ -5,12 +5,9 @@ nav_order: 1
 parent: Physics
 permalink: docs/Physics/microyz
 ---
-## Table of contents
-{: .no_toc .text-delta }
-1. TOC
-{:toc}
+Documentation for [microyz example]({{"https://doi.org/10.1063/1.4992076" | relative_url}}) 
 
-macro file
+Macro file
 ```
 #/run/numberOfThreads 2
 #

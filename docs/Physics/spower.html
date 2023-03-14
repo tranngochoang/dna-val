@@ -1,0 +1,37 @@
+<p>Documentation for <a href="https://doi.org/10.1002/mp.13048">range example</a></p>
+
+<p>Macro file</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#/run/numberOfThreads 2
+#
+/range/det/setMat G4_WATER
+/range/det/setRadius 1 m
+#
+/range/phys/addPhysics  %PHYSLIST%
+#
+/run/initialize
+#
+/gun/particle %PARTICLE%
+#
+/gun/energy %ENERGY% %ENERGY_UNIT%
+/run/beamOn %NEVENTS%
+</code></pre></div></div>
+
+<h2 id="mytag">MyTag</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower.png" alt="spower" /></p>
+
+<h2 id="g41110">G4.11.1.0</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower.png" alt="spower" /></p>
+
+<h2 id="dna_opt4">dna_opt4</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_spower__dna_stat_opt4.png" alt="spower" /></p>
+
+<ul>
+  <li>
+    <p>303_11.1.0 4 : dna_opt4 in version G4.11.1.0</p>
+  </li>
+  <li>
+    <p>MyTag 2 : dna_opt2 in version MyTag</p>
+  </li>
+</ul>

@@ -6,7 +6,7 @@ if [ -n "$(git status - porcelain)" ];
 then
  echo "IT IS CLEAN"
   echo "Pushing data!!!"
-  git push https://github.com/tranngochoang/dna-val.git
+  git push -f https://github.com/tranngochoang/dna-val.git
 else
  git status
 fi

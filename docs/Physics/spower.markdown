@@ -30,15 +30,33 @@ Macro file
 {: .text-left}
 
 ## 304_11.1.0
-![spower]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/proton.conf.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/alpha.conf.png" | relative_url}})
 {: .text-left}
 
 ## 304_11.00
-![spower]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/proton.conf.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/alpha.conf.png" | relative_url}})
 {: .text-left}
 
 ## 304_10.07
-![spower]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/proton.conf.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/alpha.conf.png" | relative_url}})
 {: .text-left}
 
 ## dna_opt4

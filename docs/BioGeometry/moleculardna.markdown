@@ -89,7 +89,7 @@ Documentation for [moleculardna example]({{"https://geant4-dna.github.io/molecul
 {: .text-left}
 MyTag 2 : dna_opt2 in version MyTag
 ## 304_11.1.0
-![Energy]({{"/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/moleculardna/energy.conf." | relative_url}})
+![Energy]({{"/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/moleculardna/energy.conf.png" | relative_url}})
 {: .text-left}
 303_11.1.0 4 : dna_opt4 in version G4.11.1.0
 ## dna_opt4

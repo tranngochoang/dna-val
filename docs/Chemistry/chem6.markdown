@@ -6,6 +6,8 @@ permalink: docs/Chemistry/chem6
 parent: Chemistry
 ---
 
+Documentation for [chem6 example]({{"https://doi.org/10.1063/1.5107511" | relative_url}})
+
 ##LET
 ```
 /process/dna/e-SolvationSubType Meesungnoen2002
@@ -67,4 +69,8 @@ parent: Chemistry
 
 ## MyTag
 ![G-value]({{"/assets/OUTPUTJSON/geant4/MyTag/x86_64/chem6.png" | relative_url}})
+{: .text-left}
+
+## 304_11.1.0
+![G-value]({{"/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/moleculardna/energy.conf.png" | relative_url}})
 {: .text-left}

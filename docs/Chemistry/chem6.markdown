@@ -68,7 +68,7 @@ Documentation for [chem6 example]({{"https://doi.org/10.1063/1.5107511" | relati
 ```
 
 ## MyTag
-![G-value]({{"/assets/OUTPUTJSON/geant4/MyTag/x86_64/chem6/energy.conf.png" | relative_url}})
+![G-value]({{"/assets/OUTPUTJSON/geant4/MyTag/x86_64/chem6/electron.conf.png" | relative_url}})
 {: .text-left}
 
 

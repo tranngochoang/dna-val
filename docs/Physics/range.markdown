@@ -25,13 +25,13 @@ Macro file
 ```
 ## MyTag
 
-![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf.png" | relative_url}})
+![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf.png" | relative_url}})
 {: .text-left}
 
-![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf.png" | relative_url}})
+![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range/proton.conf.png" | relative_url}})
 {: .text-left}
 
-![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf.png" | relative_url}})
+![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf.png" | relative_url}})
 {: .text-left}
 
 ## 304_11.1.0

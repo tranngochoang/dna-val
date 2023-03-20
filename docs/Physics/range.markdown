@@ -23,24 +23,46 @@ Macro file
 /gun/energy %ENERGY% %ENERGY_UNIT%
 /run/beamOn %NEVENTS%
 ```
-
 ## MyTag
 
-![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range.png" | relative_url}})
+![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf.png" | relative_url}})
+{: .text-left}
+
+![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf.png" | relative_url}})
+{: .text-left}
+
+![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf.png" | relative_url}})
 {: .text-left}
 
 ## 304_11.1.0
-![range]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range.png" | relative_url}})
+![range]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf.png" | relative_url}})
+{: .text-left}
+
+![range]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/proton.conf.png" | relative_url}})
+{: .text-left}
+
+![range]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/alpha.conf.png" | relative_url}})
 {: .text-left}
 
 ## 304_11.00
-![range]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/range.png" | relative_url}})
+![range]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf.png" | relative_url}})
+{: .text-left}
+
+![range]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/proton.conf.png" | relative_url}})
+{: .text-left}
+
+![range]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/alpha.conf.png" | relative_url}})
 {: .text-left}
 
 ## 304_10.07
-![range]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/range.png" | relative_url}})
+![range]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf.png" | relative_url}})
 {: .text-left}
 
+![range]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/proton.conf.png" | relative_url}})
+{: .text-left}
+
+![range]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/alpha.conf.png" | relative_url}})
+{: .text-left}
 
 ## dna_opt4
 

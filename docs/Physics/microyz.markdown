@@ -38,7 +38,7 @@ Macro file
 
 ## MyTag
 
-![y-value]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz.png" | relative_url}})
+![y-value]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz/params.conf.png" | relative_url}})
 {: .text-left}
 
 ## 304_11.1.0

@@ -14,7 +14,7 @@
     "targetName": "G4_WATER",
     "beamParticle": "e-",
     "beamEnergies": [
-      0.465758
+      0.161106
     ],
     "secondaryParticle": "None",
     "parameters": []
@@ -26,10 +26,10 @@
     "xAxisName": "LET (keV/um)",
     "yAxisName": "G-value (species/100eV)",
     "xValues": [
-      0.465758
+      0.161106
     ],
     "yValues": [
-      2.6488
+      2.72282
     ],
     "xStatErrorsPlus": [],
     "xStatErrorsMinus": [],

@@ -1,0 +1,73 @@
+{
+  "article": {
+    "inspireId": -1
+  },
+  "mctool": {
+    "name": "GEANT4",
+    "version": "MyTag",
+    "model": "icsd"
+  },
+  "testName": "icsd",
+  "metadata": {
+    "observableName": "mean value of icsd",
+    "reaction": "reaction name",
+    "targetName": "dna",
+    "beamParticle": "e-",
+    "beamEnergies": [
+      20.0,
+      30.0,
+      50.0,
+      70.0,
+      100.0,
+      110.0,
+      200.0,
+      300.0,
+      500.0,
+      700.0,
+      1000.0
+    ],
+    "secondaryParticle": "None",
+    "parameters": []
+  },
+  "plotType": "SCATTER2D",
+  "chart": {
+    "nPoints": 11,
+    "title": "Ionisation Cluster Size Distribution",
+    "xAxisName": "E (eV)",
+    "yAxisName": "mean value",
+    "xValues": [
+      20.0,
+      30.0,
+      50.0,
+      70.0,
+      100.0,
+      110.0,
+      200.0,
+      300.0,
+      500.0,
+      700.0,
+      1000.0
+    ],
+    "yValues": [
+      2.213333,
+      2.213333,
+      2.213333,
+      2.213333,
+      2.213333,
+      2.213333,
+      2.213333,
+      2.213333,
+      2.213333,
+      2.213333,
+      2.213333
+    ],
+    "xStatErrorsPlus": [],
+    "xStatErrorsMinus": [],
+    "yStatErrorsPlus": [],
+    "yStatErrorsMinus": [],
+    "xSysErrorsPlus": [],
+    "xSysErrorsMinus": [],
+    "ySysErrorsPlus": [],
+    "ySysErrorsMinus": []
+  }
+}

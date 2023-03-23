@@ -67,7 +67,13 @@ Macro file
 
 ## dna_opt4
 
-![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_spower__dna_stat_opt4.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_electron.conf__dna_stat_opt4.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_proton.conf__dna_stat_opt4.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_alpha.conf__dna_stat_opt4.png" | relative_url}})
 {: .text-left}
 
 - 303_11.1.0 4 : dna_opt4 in version G4.11.1.0

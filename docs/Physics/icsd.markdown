@@ -43,7 +43,7 @@ Macro file
 
 ## dna_opt4
 
-![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_icsd__icsd.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_icsd_electron.conf__icsd.png" | relative_url}})
 {: .text-left}
 
 - 303_11.1.0 4 : dna_opt4 in version G4.11.1.0

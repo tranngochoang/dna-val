@@ -69,6 +69,15 @@ Macro file
 ![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_proton.conf__dna_opt4.png" | relative_url}})
 {: .text-left}
 
+### electron
+![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_electron.conf__dna_opt4.png" | relative_url}})
+{: .text-left}
+
+### alpha
+![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_alpha.conf__dna_opt4.png" | relative_url}})
+{: .text-left}
+
+
 - 303_11.1.0 4 : dna_opt4 in version G4.11.1.0
 
 - MyTag 2 : dna_opt2 in version MyTag

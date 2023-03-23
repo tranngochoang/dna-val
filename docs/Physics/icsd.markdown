@@ -23,6 +23,7 @@ Macro file
 /gun/energy %ENERGY% %ENERGY_UNIT%
 /run/beamOn %NEVENTS%
 ```
+# For version
 
 ## MyTag
 
@@ -41,6 +42,7 @@ Macro file
 ![spower]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/icsd/electron.conf.png" | relative_url}})
 {: .text-left}
 
+# Comparison between Geant4 versions
 ## dna_opt4
 
 ![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_icsd_electron.conf__icsd.png" | relative_url}})

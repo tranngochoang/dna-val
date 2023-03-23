@@ -84,14 +84,20 @@ Documentation for [moleculardna example]({{"https://geant4-dna.github.io/molecul
 /run/beamOn 100000
 
 ```
+# For version
 ## MyTag
 ![Energy]({{"/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf.png" | relative_url}})
 {: .text-left}
 MyTag 2 : dna_opt2 in version MyTag
+
+
 ## 304_11.1.0
 ![Energy]({{"/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/moleculardna/energy.conf.png" | relative_url}})
 {: .text-left}
 303_11.1.0 4 : dna_opt4 in version G4.11.1.0
+
+# Comparison between Geant4 versions
+
 ## dna_opt4
 ![Energy]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_moleculardna_energy.conf__dna_opt4" | relative_url}})
 {: .text-left}

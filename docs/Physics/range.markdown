@@ -23,6 +23,8 @@ Macro file
 /gun/energy %ENERGY% %ENERGY_UNIT%
 /run/beamOn %NEVENTS%
 ```
+
+# For version
 ## MyTag
 
 ![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf.png" | relative_url}})
@@ -63,6 +65,9 @@ Macro file
 
 ![range]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/alpha.conf.png" | relative_url}})
 {: .text-left}
+
+
+# Comparison between Geant4 versions
 
 ## dna_opt4
 ### proton

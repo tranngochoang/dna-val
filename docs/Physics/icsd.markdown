@@ -9,17 +9,9 @@ Documentation for [icsd example]({{"" | relative_url}})
 
 Macro file
 ```
-#/run/numberOfThreads 2
-#
-/range/det/setMat G4_WATER
-/range/det/setRadius 1 m
-#
-/range/phys/addPhysics  %PHYSLIST%
-#
+/icsd/setGeom %MATERIAL%
 /run/initialize
-#
 /gun/particle %PARTICLE%
-#
 /gun/energy %ENERGY% %ENERGY_UNIT%
 /run/beamOn %NEVENTS%
 ```

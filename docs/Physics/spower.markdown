@@ -68,23 +68,23 @@ Macro file
 # Comparison between Geant4 versions 
 ## dna_opt4
 
-![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_electron.conf__dna_stat_opt4.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt4.png" | relative_url}})
 {: .text-left}
 
-![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_proton.conf__dna_stat_opt4.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_proton.conf__dna_stat_opt4.png" | relative_url}})
 {: .text-left}
 
-![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_alpha.conf__dna_stat_opt4.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_alpha.conf__dna_stat_opt4.png" | relative_url}})
 {: .text-left}
 
 ## dna_opt2
 
-![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_electron.conf__dna_stat_opt2.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt2.png" | relative_url}})
 {: .text-left}
 
 ## dna_opt6
 
-![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_electron.conf__dna_stat_opt6.png" | relative_url}})
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt6.png" | relative_url}})
 {: .text-left}
 
 

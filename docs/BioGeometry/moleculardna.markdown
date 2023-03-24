@@ -99,5 +99,9 @@ MyTag 2 : dna_opt2 in version MyTag
 # Comparison between Geant4 versions
 
 ## dna_opt4
-![Energy]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_moleculardna_energy.conf__dna_opt4.png" | relative_url}})
+![Energy]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_moleculardna_energy.conf__dna_opt2.png" | relative_url}})
+{: .text-left}
+
+## dna_opt2
+![Energy]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_moleculardna_energy.conf__dna_opt2.png" | relative_url}})
 {: .text-left}

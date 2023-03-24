@@ -36,7 +36,7 @@ Macro file
 ![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf.png" | relative_url}})
 {: .text-left}
 
-## 304_11.1.0
+## G4.11.1.0
 ![range]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf.png" | relative_url}})
 {: .text-left}
 
@@ -46,7 +46,7 @@ Macro file
 ![range]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/alpha.conf.png" | relative_url}})
 {: .text-left}
 
-## 304_11.00
+## G4.11.00
 ![range]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf.png" | relative_url}})
 {: .text-left}
 
@@ -56,7 +56,7 @@ Macro file
 ![range]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/alpha.conf.png" | relative_url}})
 {: .text-left}
 
-## 304_10.07
+## G4.10.07
 ![range]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf.png" | relative_url}})
 {: .text-left}
 
@@ -81,6 +81,34 @@ Macro file
 ### alpha
 ![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_alpha.conf__dna_opt4.png" | relative_url}})
 {: .text-left}
+
+## dna_opt2
+### proton
+![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_proton.conf__dna_opt2.png" | relative_url}})
+{: .text-left}
+
+### electron
+![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_electron.conf__dna_opt2.png" | relative_url}})
+{: .text-left}
+
+### alpha
+![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_alpha.conf__dna_opt2.png" | relative_url}})
+{: .text-left}
+
+
+## dna_opt6
+### proton
+![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_proton.conf__dna_opt6.png" | relative_url}})
+{: .text-left}
+
+### electron
+![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_electron.conf__dna_opt6.png" | relative_url}})
+{: .text-left}
+
+### alpha
+![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_alpha.conf__dna_opt6.png" | relative_url}})
+{: .text-left}
+
 
 
 - 303_11.1.0 4 : dna_opt4 in version G4.11.1.0

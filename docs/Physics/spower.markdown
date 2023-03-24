@@ -5,16 +5,16 @@ nav_order: 1
 parent: Physics
 permalink: docs/Physics/spower
 ---
-Documentation for [range example]({{"https://doi.org/10.1002/mp.13048" | relative_url}}) 
+Documentation for [spower example]({{"https://doi.org/10.1002/mp.13048" | relative_url}}) 
 
 Macro file
 ```
-#/run/numberOfThreads 2
+/run/numberOfThreads 2
 #
-/range/det/setMat G4_WATER
-/range/det/setRadius 1 m
+/spower/det/setMat G4_WATER
+/spower/det/setRadius 1 m
 #
-/range/phys/addPhysics  %PHYSLIST%
+/spower/phys/addPhysics  %PHYSLIST%
 #
 /run/initialize
 #
@@ -35,7 +35,7 @@ Macro file
 ![spower]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf.png" | relative_url}})
 {: .text-left}
 
-## 304_11.1.0
+## G4.11.1.0
 ![spower]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf.png" | relative_url}})
 {: .text-left}
 
@@ -45,7 +45,7 @@ Macro file
 ![spower]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/alpha.conf.png" | relative_url}})
 {: .text-left}
 
-## 304_11.00
+## G4.11.00
 ![spower]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf.png" | relative_url}})
 {: .text-left}
 
@@ -55,7 +55,7 @@ Macro file
 ![spower]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/alpha.conf.png" | relative_url}})
 {: .text-left}
 
-## 304_10.07
+## G4.10.07
 ![spower]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf.png" | relative_url}})
 {: .text-left}
 
@@ -75,6 +75,28 @@ Macro file
 {: .text-left}
 
 ![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_alpha.conf__dna_stat_opt4.png" | relative_url}})
+{: .text-left}
+
+## dna_opt2
+
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_electron.conf__dna_stat_opt2.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_proton.conf__dna_stat_opt2.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_alpha.conf__dna_stat_opt2.png" | relative_url}})
+{: .text-left}
+
+## dna_opt6
+
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_electron.conf__dna_stat_opt6.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_proton.conf__dna_stat_opt6.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_spower_alpha.conf__dna_stat_opt6.png" | relative_url}})
 {: .text-left}
 
 - 303_11.1.0 4 : dna_opt4 in version G4.11.1.0

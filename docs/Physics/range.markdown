@@ -83,31 +83,16 @@ Macro file
 {: .text-left}
 
 ## dna_opt2
-### proton
-![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_proton.conf__dna_opt2.png" | relative_url}})
-{: .text-left}
-
 ### electron
 ![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_electron.conf__dna_opt2.png" | relative_url}})
 {: .text-left}
 
-### alpha
-![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_alpha.conf__dna_opt2.png" | relative_url}})
-{: .text-left}
-
 
 ## dna_opt6
-### proton
-![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_proton.conf__dna_opt6.png" | relative_url}})
-{: .text-left}
-
 ### electron
 ![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_electron.conf__dna_opt6.png" | relative_url}})
 {: .text-left}
 
-### alpha
-![range]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_range_alpha.conf__dna_opt6.png" | relative_url}})
-{: .text-left}
 
 
 

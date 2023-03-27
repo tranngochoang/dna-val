@@ -9,7 +9,7 @@
   },
   "testName": "spower",
   "metadata": {
-    "observableName": "microdosimetry y",
+    "observableName": "stopping power",
     "reaction": "reaction name",
     "targetName": "Water",
     "beamParticle": "e-",

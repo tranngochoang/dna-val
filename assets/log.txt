@@ -1,0 +1,108 @@
+MyTag
+/home/tran/GEANT4/geant-web-app
+lun. mars 27 23:45:01 CEST 2023 for MyTag
+args.project :  geant4
+args.version :  MyTag
+Start to run 60 jobs for test microyz params.conf...
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz/params.conf/97697b9b1c826cde04b896aa66330abe.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/microyz/params.conf/28cc9f4f06dde887ce2443f6bac61e08.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz/params.conf/97697b9b1c826cde04b896aa66330abe.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/microyz/params.conf/28cc9f4f06dde887ce2443f6bac61e08.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_microyz_params.conf__dna_opt2 -f png -y log -x log
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz/params.conf/97a4622c925ba47048da65bd7355603f.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/microyz/params.conf/421ee5d0e30cabe11ea154e6fab3ba67.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz/params.conf/97a4622c925ba47048da65bd7355603f.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/microyz/params.conf/421ee5d0e30cabe11ea154e6fab3ba67.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_microyz_params.conf__dna_opt4 -f png -y log -x log
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz/params.conf/2aaa687885283236e90fe3ebb8dd25a7.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/microyz/params.conf/14572a6361538c9c8cd3896a5a51d393.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz/params.conf/2aaa687885283236e90fe3ebb8dd25a7.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/microyz/params.conf/14572a6361538c9c8cd3896a5a51d393.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_microyz_params.conf__dna_opt6 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Start to run 81 jobs for test range electron.conf...
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8600b275569a62cd5043f92637bf7cdc.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/5aa2989d8a439dc2905bf854e7a15997.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/4886e15aec529405cb3bb3f28a8f33ee.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/141132628ab3e677227f1912c3064465.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8600b275569a62cd5043f92637bf7cdc.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/5aa2989d8a439dc2905bf854e7a15997.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/4886e15aec529405cb3bb3f28a8f33ee.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/141132628ab3e677227f1912c3064465.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt2 -f png -y log -x log
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/9cee61e71e6edcc93f45cd214c8b0f9d.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/23890a0c37ea384118d4e2625980d1ad.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/6ae3a16a005f817b86454abc5c2c1733.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/8cf46dc33a719bae6239c40647cb90ce.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/9cee61e71e6edcc93f45cd214c8b0f9d.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/23890a0c37ea384118d4e2625980d1ad.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/6ae3a16a005f817b86454abc5c2c1733.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/8cf46dc33a719bae6239c40647cb90ce.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt4 -f png -y log -x log
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8a9ac9f5f84696a18319565eb2853f23.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/88086d9fa3096e055d4d16e572b836c4.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/54a27504c81a93fdca16f79301bc3b18.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/2ee17b0b5bdc4ee858b097b6f5fa32fa.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8a9ac9f5f84696a18319565eb2853f23.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/88086d9fa3096e055d4d16e572b836c4.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/54a27504c81a93fdca16f79301bc3b18.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/2ee17b0b5bdc4ee858b097b6f5fa32fa.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt6 -f png -y log -x log
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/proton.conf/680d9774567aaebfbce7bcebd345d3a3.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/proton.conf/a65419d6bbfe701ebff94aee2a08100d.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/proton.conf/9b8ad8899436fe934649cbfcf3c78cf6.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/proton.conf/74f8496c97ad4107b6aa9328f82c63c3.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/proton.conf/680d9774567aaebfbce7bcebd345d3a3.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/proton.conf/a65419d6bbfe701ebff94aee2a08100d.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/proton.conf/9b8ad8899436fe934649cbfcf3c78cf6.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/proton.conf/74f8496c97ad4107b6aa9328f82c63c3.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_proton.conf__dna_opt4 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Start to run 19 jobs for test range alpha.conf...
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf/99858afb8370e927b61e6fe2b21e31d6.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/alpha.conf/287d658c4897e77835f17ceda5679a32.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/alpha.conf/ab61f487b624dd1eaac9232ca15b43b0.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/alpha.conf/fccca5fa2263db45476885cf1cecfee0.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf/99858afb8370e927b61e6fe2b21e31d6.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/alpha.conf/287d658c4897e77835f17ceda5679a32.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/alpha.conf/ab61f487b624dd1eaac9232ca15b43b0.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/alpha.conf/fccca5fa2263db45476885cf1cecfee0.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_alpha.conf__dna_opt4 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Start to run 32 jobs for test spower alpha.conf...
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf/0afd574ad0b72d83f91bda2e941284ce.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/alpha.conf/a91494bf504f41a811a374b205e3abe3.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/alpha.conf/c34cb86baaa7b520af59e61eab026969.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/alpha.conf/440510779925d8fbbfd219dcbe40a01a.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf/0afd574ad0b72d83f91bda2e941284ce.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/alpha.conf/a91494bf504f41a811a374b205e3abe3.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/alpha.conf/c34cb86baaa7b520af59e61eab026969.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/alpha.conf/440510779925d8fbbfd219dcbe40a01a.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_alpha.conf__dna_stat_opt4 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Start to run 96 jobs for test spower electron.conf...
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/24fdbf0d93a7f67b8985cb95b272d7e8.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/009fd2a7acd5b041a206604f1071640b.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/5959488ed7a99b96bb9fd86add1880b3.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/fc40ed1421861673285818adb61959ee.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/24fdbf0d93a7f67b8985cb95b272d7e8.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/009fd2a7acd5b041a206604f1071640b.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/5959488ed7a99b96bb9fd86add1880b3.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/fc40ed1421861673285818adb61959ee.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt2 -f png -y log -x log
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/2f22d9f80ff32d71386beddaaf707ccb.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/f9471e55536bc5d350bda4596d68e6a4.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/91a155ce7adf2b63bcc014af3dbad1c1.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/dbd775b855d1ed488fa777860bce899f.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/2f22d9f80ff32d71386beddaaf707ccb.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/f9471e55536bc5d350bda4596d68e6a4.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/91a155ce7adf2b63bcc014af3dbad1c1.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/dbd775b855d1ed488fa777860bce899f.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt4 -f png -y log -x log
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/800127df1c590feb315cd338314df2c5.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/08422b10cfa4c702d4abe8d6cc1623c8.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/cab3218f7fd20311f4ba673dc8f49e05.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/e6f0e58047578d00c166e5da819c77cf.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/800127df1c590feb315cd338314df2c5.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/08422b10cfa4c702d4abe8d6cc1623c8.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/cab3218f7fd20311f4ba673dc8f49e05.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/e6f0e58047578d00c166e5da819c77cf.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt6 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Start to run 26 jobs for test spower proton.conf...
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf/a2d860b7269202c270b7432c1d86d587.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/proton.conf/0cc460219021b72d3b59afcf18f7cf5c.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/proton.conf/5c4538ecb6112346933f9a3118eadc99.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/proton.conf/7f0de60f757fe6e4ee095d6f4c72b2f7.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf/a2d860b7269202c270b7432c1d86d587.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/proton.conf/0cc460219021b72d3b59afcf18f7cf5c.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/proton.conf/5c4538ecb6112346933f9a3118eadc99.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/proton.conf/7f0de60f757fe6e4ee095d6f4c72b2f7.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_proton.conf__dna_stat_opt4 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Start to run 26 jobs for test icsd electron.conf...
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/icsd/electron.conf/964bc59f56ac2db76adaa0ab2920c093.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/icsd/electron.conf/38c46a830207956bc03878f6532cc711.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/icsd/electron.conf/bde5d3ddd2df61dc5c8a9c0dc1e4fef5.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/icsd/electron.conf/bc3f38afcd68f3c70d01f00c9350b30f.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/icsd/electron.conf/a33f413942c6163688efd8d6374b842c.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/icsd/electron.conf/57490d95154f7621849993632ff9383d.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/icsd/electron.conf/8df827f2771ee62f6f9bde7fd2a0815f.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/icsd/electron.conf/66b7dc6aef833aac11f7cef8734433ee.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/icsd/electron.conf/964bc59f56ac2db76adaa0ab2920c093.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/icsd/electron.conf/38c46a830207956bc03878f6532cc711.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/icsd/electron.conf/bde5d3ddd2df61dc5c8a9c0dc1e4fef5.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/icsd/electron.conf/bc3f38afcd68f3c70d01f00c9350b30f.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/icsd/electron.conf/a33f413942c6163688efd8d6374b842c.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/icsd/electron.conf/57490d95154f7621849993632ff9383d.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/icsd/electron.conf/8df827f2771ee62f6f9bde7fd2a0815f.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/icsd/electron.conf/66b7dc6aef833aac11f7cef8734433ee.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_icsd_electron.conf__icsd -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Start to run 3 jobs for test TestEm12 electron.conf...
+No json file !!!!
+args.project :  geant4
+args.version :  MyTag
+Start to run 21 jobs for test chem6 electron.conf...
+args.project :  geant4
+args.version :  MyTag
+Start to run 22 jobs for test moleculardna energy.conf...
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf/ab3a38be4d7e8d6650281d8445cec317.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/moleculardna/energy.conf/051914a95c535e5157a4481f45a9bb91.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf/ab3a38be4d7e8d6650281d8445cec317.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/moleculardna/energy.conf/051914a95c535e5157a4481f45a9bb91.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_moleculardna_energy.conf__dna_opt2 -f png -y log -x log
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf/966c47ff3ff21b3bd3531051a49a6312.json
+model :  /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/moleculardna/energy.conf/601170a26b70e2aae0f845da6b2bd235.json
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf/966c47ff3ff21b3bd3531051a49a6312.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/moleculardna/energy.conf/601170a26b70e2aae0f845da6b2bd235.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_moleculardna_energy.conf__dna_opt4 -f png -y log -x log

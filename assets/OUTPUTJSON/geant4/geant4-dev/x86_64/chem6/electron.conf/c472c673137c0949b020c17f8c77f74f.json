@@ -4,8 +4,8 @@
   },
   "mctool": {
     "name": "GEANT4",
-    "version": "MyTag",
-    "model": "SBS"
+    "version": "geant4-dev",
+    "model": "IRT_syn"
   },
   "testName": "chem6",
   "metadata": {
@@ -14,7 +14,7 @@
     "targetName": "G4_WATER",
     "beamParticle": "e-",
     "beamEnergies": [
-      0.467616
+      9.01178
     ],
     "secondaryParticle": "None",
     "parameters": []
@@ -26,10 +26,10 @@
     "xAxisName": "LET (keV/um)",
     "yAxisName": "G-value (species/100eV)",
     "xValues": [
-      0.467616
+      9.01178
     ],
     "yValues": [
-      2.78325
+      1.53702
     ],
     "xStatErrorsPlus": [],
     "xStatErrorsMinus": [],

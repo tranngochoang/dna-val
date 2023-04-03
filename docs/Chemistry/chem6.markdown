@@ -10,6 +10,7 @@ Documentation for [chem6 example]({{"https://doi.org/10.1063/1.5107511" | relati
 
 ##LET
 ```
+/run/numberOfThreads 20
 /process/dna/e-SolvationSubType Meesungnoen2002
 #/process/dna/e-SolvationSubType Ritchie1994
 #/process/dna/e-SolvationSubType Terrisol1990
@@ -60,9 +61,39 @@ Documentation for [chem6 example]({{"https://doi.org/10.1063/1.5107511" | relati
 
 /run/printProgress 100
 
-/primaryKiller/eLossMin %ELOSSMIN% %ENERGY_UNIT% # primary is killed if deposited E is greater than this value
-/primaryKiller/eLossMax %ELOSSMAX% %ENERGY_UNIT% # event is aborted if deposited E is greated than this value
-/gun/energy %ENERGY% %ENERGY_UNIT%
+/primaryKiller/eLossMin 1.2 keV # primary is killed if deposited E is greater than this value
+/primaryKiller/eLossMax 1.212 keV # event is aborted if deposited E is greated than this value
+/gun/energy 2 keV
+/run/beamOn %NEVENTS%
+
+/primaryKiller/eLossMin 1.6 keV # primary is killed if deposited E is greater than this value
+/primaryKiller/eLossMax 1.616 keV # event is aborted if deposited E is greated than this value
+/gun/energy 3.5 keV
+/run/beamOn %NEVENTS%
+
+/primaryKiller/eLossMin 2.3 keV # primary is killed if deposited E is greater than this value
+/primaryKiller/eLossMax 2.323 keV # event is aborted if deposited E is greated than this value
+/gun/energy 7.5 keV
+/run/beamOn %NEVENTS%
+
+/primaryKiller/eLossMin 3.8 keV # primary is killed if deposited E is greater than this value
+/primaryKiller/eLossMax 3.838 keV # event is aborted if deposited E is greated than this value
+/gun/energy 12.5 keV
+/run/beamOn %NEVENTS%
+
+/primaryKiller/eLossMin 6.0 keV # primary is killed if deposited E is greater than this value
+/primaryKiller/eLossMax 6.06 keV # event is aborted if deposited E is greated than this value
+/gun/energy 30 keV
+/run/beamOn %NEVENTS%
+
+/primaryKiller/eLossMin 8.0 keV # primary is killed if deposited E is greater than this value
+/primaryKiller/eLossMax 8.08 keV # event is aborted if deposited E is greated than this value
+/gun/energy 80 keV
+/run/beamOn %NEVENTS%
+
+/primaryKiller/eLossMin 10 keV # primary is killed if deposited E is greater than this value
+/primaryKiller/eLossMax 10.1 keV # event is aborted if deposited E is greated than this value
+/gun/energy 999.999 keV
 /run/beamOn %NEVENTS%
 
 ```
@@ -134,3 +165,6 @@ Documentation for [chem6 example]({{"https://doi.org/10.1063/1.5107511" | relati
 
 ![G-value]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/chem6/electron.conf_LET2O2.png" | relative_url}})
 {: .text-left}
+
+
+# Comparison between Geant4 versions

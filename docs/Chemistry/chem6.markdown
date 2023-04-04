@@ -174,5 +174,51 @@ Documentation for [chem6 example]({{"https://doi.org/10.1063/1.5107511" | relati
 ![G-value]({{"assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/chem6/electron.conf_LETH2O2.png" | relative_url}})
 {: .text-left}
 
+## 304_11.00
+
+### in time
+![G-value]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/chem6/electron.conf_TIMEOH.png" | relative_url}})
+{: .text-left}
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/chem6/electron.conf_TIMEe_aq.png" | relative_url}})
+{: .text-left}
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/chem6/electron.conf_TIME2O2.png" | relative_url}})
+{: .text-left}
+
+### in LET
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/chem6/electron.conf_LETOH.png" | relative_url}})
+{: .text-left}
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/chem6/electron.conf_LETe_aq.png" | relative_url}})
+{: .text-left}
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_11.00/x86_64/chem6/electron.conf_LETH2O2.png" | relative_url}})
+{: .text-left}
+
+## 304_10.07
+
+### in time
+![G-value]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/chem6/electron.conf_TIMEOH.png" | relative_url}})
+{: .text-left}
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/chem6/electron.conf_TIMEe_aq.png" | relative_url}})
+{: .text-left}
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/chem6/electron.conf_TIME2O2.png" | relative_url}})
+{: .text-left}
+
+### in LET
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/chem6/electron.conf_LETOH.png" | relative_url}})
+{: .text-left}
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/chem6/electron.conf_LETe_aq.png" | relative_url}})
+{: .text-left}
+
+![G-value]({{"assets/OUTPUTJSON/geant4/304_10.07/x86_64/chem6/electron.conf_LETH2O2.png" | relative_url}})
+{: .text-left}
+
 
 # Comparison between Geant4 versions

@@ -1,0 +1,69 @@
+{
+  "article": {
+    "inspireId": -1
+  },
+  "mctool": {
+    "name": "LET",
+    "version": "304_10.07",
+    "model": "SBS"
+  },
+  "testName": "chem6",
+  "metadata": {
+    "observableName": "e_aq^-1",
+    "reaction": "reaction name",
+    "targetName": "G4_WATER",
+    "beamParticle": "e-",
+    "beamEnergies": [
+      8.9637,
+      5.743,
+      3.1572,
+      2.0826,
+      0.996068,
+      0.452977,
+      0.157492
+    ],
+    "secondaryParticle": "None",
+    "parameters": []
+  },
+  "plotType": "SCATTER2D",
+  "chart": {
+    "nPoints": 7,
+    "title": "G-value in LET",
+    "xAxisName": "LET (keV/um)",
+    "yAxisName": "G-value (species/100eV)",
+    "xValues": [
+      8.9637,
+      5.743,
+      3.1572,
+      2.0826,
+      0.996068,
+      0.452977,
+      0.157492
+    ],
+    "yValues": [
+      1.53527,
+      1.78982,
+      2.14361,
+      2.29822,
+      2.52057,
+      2.64239,
+      2.70241
+    ],
+    "xStatErrorsPlus": [],
+    "xStatErrorsMinus": [],
+    "yStatErrorsPlus": [
+      0.0202368,
+      0.0200537,
+      0.0200692,
+      0.0177433,
+      0.0162813,
+      0.0152963,
+      0.0140968
+    ],
+    "yStatErrorsMinus": [],
+    "xSysErrorsPlus": [],
+    "xSysErrorsMinus": [],
+    "ySysErrorsPlus": [],
+    "ySysErrorsMinus": []
+  }
+}

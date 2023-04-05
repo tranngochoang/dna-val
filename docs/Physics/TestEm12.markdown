@@ -5,7 +5,7 @@ nav_order: 1
 parent: Physics
 permalink: docs/Physics/TestEm12
 ---
-Documentation for [TestEm12 example]({{"" | relative_url}}) 
+Documentation for [TestEm12 example]({{"http://dx.doi.org/10.1016/j.nimb.2017.02.044" | relative_url}}) 
 
 Macro file
 ```

@@ -5,22 +5,22 @@
   "mctool": {
     "name": "LET",
     "version": "MyTag",
-    "model": "SBS"
+    "model": "IRT"
   },
   "testName": "chem6",
   "metadata": {
-    "observableName": "H2O2^0",
+    "observableName": "e_aq^-1",
     "reaction": "reaction name",
     "targetName": "G4_WATER",
     "beamParticle": "e-",
     "beamEnergies": [
-      9.35218,
-      5.12518,
-      3.17366,
-      2.29352,
-      0.90758,
-      0.459442,
-      0.157581
+      9.24756,
+      5.9739,
+      3.07537,
+      2.14307,
+      1.00056,
+      0.456086,
+      0.158677
     ],
     "secondaryParticle": "None",
     "parameters": []
@@ -32,33 +32,33 @@
     "xAxisName": "LET (keV/um)",
     "yAxisName": "G-value (species/100eV)",
     "xValues": [
-      9.35218,
-      5.12518,
-      3.17366,
-      2.29352,
-      0.90758,
-      0.459442,
-      0.157581
+      9.24756,
+      5.9739,
+      3.07537,
+      2.14307,
+      1.00056,
+      0.456086,
+      0.158677
     ],
     "yValues": [
-      0.923951,
-      0.789506,
-      0.767242,
-      0.739624,
-      0.659126,
-      0.629476,
-      0.624091
+      1.55654,
+      1.79102,
+      2.17642,
+      2.29477,
+      2.52092,
+      2.64585,
+      2.72264
     ],
     "xStatErrorsPlus": [],
     "xStatErrorsMinus": [],
     "yStatErrorsPlus": [
-      0.0409238,
-      0.0375492,
-      0.0282333,
-      0.023556,
-      0.0185175,
-      0.0176883,
-      0.0151997
+      0.00280708,
+      0.00285892,
+      0.00284986,
+      0.00770478,
+      0.00697954,
+      0.00685874,
+      0.00652079
     ],
     "yStatErrorsMinus": [],
     "xSysErrorsPlus": [],

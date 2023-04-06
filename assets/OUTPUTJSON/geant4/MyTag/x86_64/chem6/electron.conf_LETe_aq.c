@@ -262,3 +262,135 @@ double gvp_id-1_yerrors[7] = {
   0.0163843,
   0.0162764
 };
+// Tool:               LET
+// Version:            MyTag
+// Model:              SBS
+// Observable:         e_aq^-1
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.35218,
+  5.12518,
+  3.17366,
+  2.29352,
+  0.90758,
+  0.459442,
+  0.157581
+};
+double gvp_id-1_y[7] = {
+  1.82277,
+  2.02637,
+  2.32773,
+  2.44336,
+  2.73004,
+  2.81108,
+  2.86167
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.0462207,
+  0.0463879,
+  0.051501,
+  0.0386437,
+  0.0255728,
+  0.0376232,
+  0.0345508
+};
+// Tool:               LET
+// Version:            MyTag
+// Model:              IRT
+// Observable:         e_aq^-1
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.02172,
+  6.05585,
+  3.04345,
+  2.15027,
+  1.41065,
+  0.463729,
+  0.161745
+};
+double gvp_id-1_y[7] = {
+  1.56349,
+  1.79043,
+  2.17336,
+  2.30083,
+  2.51782,
+  2.64627,
+  2.72534
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00647397,
+  0.00625966,
+  0.00638236,
+  0.00542104,
+  0.00503224,
+  0.00491515,
+  0.00470748
+};
+// Tool:               LET
+// Version:            MyTag
+// Model:              IRT_syn
+// Observable:         e_aq^-1
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.01178,
+  5.73595,
+  3.06471,
+  2.0908,
+  0.997578,
+  0.462715,
+  0.160623
+};
+double gvp_id-1_y[7] = {
+  1.65248,
+  1.85779,
+  2.21548,
+  2.34048,
+  2.55334,
+  2.6556,
+  2.72818
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00787858,
+  0.00775336,
+  0.00773426,
+  0.00664451,
+  0.00611971,
+  0.00595069,
+  0.00572386
+};

@@ -262,3 +262,135 @@ double gvp_id-1_yerrors[7] = {
   0.00675358,
   0.00692163
 };
+// Tool:               LET
+// Version:            MyTag
+// Model:              SBS
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.35218,
+  5.12518,
+  3.17366,
+  2.29352,
+  0.90758,
+  0.459442,
+  0.157581
+};
+double gvp_id-1_y[7] = {
+  0.923951,
+  0.789506,
+  0.767242,
+  0.739624,
+  0.659126,
+  0.629476,
+  0.624091
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.0289375,
+  0.0265513,
+  0.019964,
+  0.0166566,
+  0.0130938,
+  0.0125075,
+  0.0107478
+};
+// Tool:               LET
+// Version:            MyTag
+// Model:              IRT
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.02172,
+  6.05585,
+  3.04345,
+  2.15027,
+  1.41065,
+  0.463729,
+  0.161745
+};
+double gvp_id-1_y[7] = {
+  0.8885,
+  0.816254,
+  0.742516,
+  0.719052,
+  0.674537,
+  0.648005,
+  0.626139
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00396533,
+  0.00328025,
+  0.00263182,
+  0.00197523,
+  0.00158524,
+  0.00150607,
+  0.00136218
+};
+// Tool:               LET
+// Version:            MyTag
+// Model:              IRT_syn
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.01178,
+  5.73595,
+  3.06471,
+  2.0908,
+  0.997578,
+  0.462715,
+  0.160623
+};
+double gvp_id-1_y[7] = {
+  0.929079,
+  0.853827,
+  0.774028,
+  0.754393,
+  0.711698,
+  0.690764,
+  0.668825
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00521679,
+  0.00428323,
+  0.00355373,
+  0.00266157,
+  0.0021518,
+  0.00188279,
+  0.00181575
+};

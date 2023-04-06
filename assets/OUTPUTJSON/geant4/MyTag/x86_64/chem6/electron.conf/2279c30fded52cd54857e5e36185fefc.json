@@ -5,22 +5,22 @@
   "mctool": {
     "name": "LET",
     "version": "MyTag",
-    "model": "IRT_syn"
+    "model": "IRT"
   },
   "testName": "chem6",
   "metadata": {
-    "observableName": "H2O2^0",
+    "observableName": "OH^0",
     "reaction": "reaction name",
     "targetName": "G4_WATER",
     "beamParticle": "e-",
     "beamEnergies": [
-      9.01178,
-      5.73595,
-      3.06471,
-      1.92448,
-      0.923937,
-      0.39398,
-      0.139763
+      9.02172,
+      6.05585,
+      3.04345,
+      2.15027,
+      1.41065,
+      0.463729,
+      0.161745
     ],
     "secondaryParticle": "None",
     "parameters": []
@@ -32,33 +32,33 @@
     "xAxisName": "LET (keV/um)",
     "yAxisName": "G-value (species/100eV)",
     "xValues": [
-      9.01178,
-      5.73595,
-      3.06471,
-      1.92448,
-      0.923937,
-      0.39398,
-      0.139763
+      9.02172,
+      6.05585,
+      3.04345,
+      2.15027,
+      1.41065,
+      0.463729,
+      0.161745
     ],
     "yValues": [
-      0.929079,
-      0.853827,
-      0.774028,
-      0.725665,
-      0.661931,
-      0.620277,
-      0.591368
+      1.54287,
+      1.82551,
+      2.20083,
+      2.32374,
+      2.53406,
+      2.66043,
+      2.74677
     ],
     "xStatErrorsPlus": [],
     "xStatErrorsMinus": [],
     "yStatErrorsPlus": [
-      0.00737765,
-      0.0060574,
-      0.00502574,
-      0.00527915,
-      0.00560537,
-      0.00571351,
-      0.00566961
+      0.0104318,
+      0.0106121,
+      0.0103527,
+      0.00852457,
+      0.00781604,
+      0.00757278,
+      0.00724088
     ],
     "yStatErrorsMinus": [],
     "xSysErrorsPlus": [],

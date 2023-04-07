@@ -526,3 +526,135 @@ double gvp_id-1_yerrors[7] = {
   0.00144494,
   0.00134748
 };
+// Tool:               LET
+// Version:            MyTag
+// Model:              IRT
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.24756,
+  5.9739,
+  3.07537,
+  2.14307,
+  1.00056,
+  0.456086,
+  0.158677
+};
+double gvp_id-1_y[7] = {
+  0.892312,
+  0.820048,
+  0.741572,
+  0.719868,
+  0.675552,
+  0.64726,
+  0.630118
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00124845,
+  0.00104813,
+  0.000840722,
+  0.00199617,
+  0.00155269,
+  0.001454,
+  0.00134638
+};
+// Tool:               LET
+// Version:            MyTag
+// Model:              SBS
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.01178,
+  5.73595,
+  3.06471,
+  1.96029,
+  1.00075,
+  0.444986,
+  0.157868
+};
+double gvp_id-1_y[7] = {
+  0.897999,
+  0.816088,
+  0.725994,
+  0.698382,
+  0.666319,
+  0.631996,
+  0.620702
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00509301,
+  0.00452579,
+  0.00357727,
+  0.00920731,
+  0.00681573,
+  0.00601992,
+  0.0057088
+};
+// Tool:               LET
+// Version:            MyTag
+// Model:              IRT_syn
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.2597,
+  6.00688,
+  3.09628,
+  2.13008,
+  1.16584,
+  0.457528,
+  0.158069
+};
+double gvp_id-1_y[7] = {
+  0.928013,
+  0.852791,
+  0.774451,
+  0.753985,
+  0.705947,
+  0.688935,
+  0.669206
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00164609,
+  0.00138407,
+  0.00111528,
+  0.00243991,
+  0.00216733,
+  0.00186698,
+  0.001823
+};

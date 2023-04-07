@@ -462,3 +462,67 @@ glob_max_y = -1e+07
 TIMER [finished ROOT filling and styling]: 0.016807 seconds
 TIMER [finished ROOT SaveAs()]: 0.115516 seconds
 /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf
+[main f3d30e5] range/alpha.conf/MyTag : ven. avril  7 16:32:47 CEST 2023
+ 3 files changed, 422 insertions(+)
+IT IS CLEAN
+Pushing data!!!
+[('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf/99858afb8370e927b61e6fe2b21e31d6.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf')]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf/99858afb8370e927b61e6fe2b21e31d6.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/alpha.conf/287d658c4897e77835f17ceda5679a32.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/alpha.conf/ab61f487b624dd1eaac9232ca15b43b0.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/alpha.conf/fccca5fa2263db45476885cf1cecfee0.json requested for plotting
+TIMER [finished reading JSON from files]: 0.001444 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 4.2e-05 seconds
+Water  Distance (nm)
+Water  y (keV/um)
+Water  y (keV/um)
+Water  y (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.0172 seconds
+TIMER [finished ROOT SaveAs()]: 0.156382 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_alpha.conf__dna_opt4
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/alpha.conf/99858afb8370e927b61e6fe2b21e31d6.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/alpha.conf/287d658c4897e77835f17ceda5679a32.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/alpha.conf/ab61f487b624dd1eaac9232ca15b43b0.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/alpha.conf/fccca5fa2263db45476885cf1cecfee0.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_alpha.conf__dna_opt4 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Directory /home/tran/GEANT4/geant-web-app/OUTPUT/geant4/MyTag/x86_64/spower/alpha.conf already exists (maybe with jobs).
+Remove it and continue... 
+Start to run 32 jobs for test spower alpha.conf...
+Fetched 1/32Fetched 2/32Fetched 3/32Fetched 4/32Fetched 5/32Fetched 6/32Fetched 7/32Fetched 8/32Fetched 9/32Fetched 10/32Fetched 11/32Fetched 12/32Fetched 13/32Fetched 14/32Fetched 15/32Fetched 16/32Fetched 17/32Fetched 18/32Fetched 19/32Fetched 20/32Fetched 21/32Fetched 22/32Fetched 23/32Fetched 24/32Fetched 25/32Fetched 26/32Fetched 27/32Fetched 28/32Fetched 29/32Fetched 30/32Fetched 31/32Fetched 32/32
+Output directory /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf already exists (maybe with json files). Remove it and continue... 
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf/0afd574ad0b72d83f91bda2e941284ce.json requested for plotting
+TIMER [finished reading JSON from files]: 0.000335 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 2.3e-05 seconds
+Water  Stopping power (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.020572 seconds
+TIMER [finished ROOT SaveAs()]: 0.125652 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf

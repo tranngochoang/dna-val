@@ -609,3 +609,185 @@ glob_max_y = -1e+07
 TIMER [finished ROOT filling and styling]: 0.022112 seconds
 TIMER [finished ROOT SaveAs()]: 0.172767 seconds
 /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf
+[main 1d22ccd] spower/electron.conf/MyTag : ven. avril  7 16:49:12 CEST 2023
+ 4 files changed, 1107 insertions(+)
+ create mode 100644 assets/.log.txt.swp
+IT IS CLEAN
+Pushing data!!!
+[('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/2f22d9f80ff32d71386beddaaf707ccb.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf'), ('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/cb9a03b55259e5f4d133219c0180ab28.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf'), ('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/24fdbf0d93a7f67b8985cb95b272d7e8.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf'), ('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/800127df1c590feb315cd338314df2c5.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf')]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/24fdbf0d93a7f67b8985cb95b272d7e8.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/009fd2a7acd5b041a206604f1071640b.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/5959488ed7a99b96bb9fd86add1880b3.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/fc40ed1421861673285818adb61959ee.json requested for plotting
+TIMER [finished reading JSON from files]: 0.001469 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 4.1e-05 seconds
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.016762 seconds
+TIMER [finished ROOT SaveAs()]: 0.16899 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt2
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/24fdbf0d93a7f67b8985cb95b272d7e8.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/009fd2a7acd5b041a206604f1071640b.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/5959488ed7a99b96bb9fd86add1880b3.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/fc40ed1421861673285818adb61959ee.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt2 -f png -y log -x log
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/2f22d9f80ff32d71386beddaaf707ccb.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/f9471e55536bc5d350bda4596d68e6a4.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/91a155ce7adf2b63bcc014af3dbad1c1.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/dbd775b855d1ed488fa777860bce899f.json requested for plotting
+TIMER [finished reading JSON from files]: 0.001158 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 4.4e-05 seconds
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.019601 seconds
+TIMER [finished ROOT SaveAs()]: 0.168976 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt4
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/2f22d9f80ff32d71386beddaaf707ccb.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/f9471e55536bc5d350bda4596d68e6a4.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/91a155ce7adf2b63bcc014af3dbad1c1.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/dbd775b855d1ed488fa777860bce899f.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt4 -f png -y log -x log
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/800127df1c590feb315cd338314df2c5.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/08422b10cfa4c702d4abe8d6cc1623c8.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/cab3218f7fd20311f4ba673dc8f49e05.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/e6f0e58047578d00c166e5da819c77cf.json requested for plotting
+TIMER [finished reading JSON from files]: 0.001167 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 4.3e-05 seconds
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+Water  Stopping power (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.018412 seconds
+TIMER [finished ROOT SaveAs()]: 0.169586 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt6
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf/800127df1c590feb315cd338314df2c5.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf/08422b10cfa4c702d4abe8d6cc1623c8.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf/cab3218f7fd20311f4ba673dc8f49e05.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf/e6f0e58047578d00c166e5da819c77cf.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt6 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Directory /home/tran/GEANT4/geant-web-app/OUTPUT/geant4/MyTag/x86_64/spower/proton.conf already exists (maybe with jobs).
+Remove it and continue... 
+Start to run 26 jobs for test spower proton.conf...
+Fetched 1/26Fetched 2/26Fetched 3/26Fetched 4/26Fetched 5/26Fetched 6/26Fetched 7/26Fetched 8/26Fetched 9/26Fetched 10/26Fetched 11/26Fetched 12/26Fetched 13/26Fetched 14/26Fetched 15/26Fetched 16/26Fetched 17/26Fetched 18/26Fetched 19/26Fetched 20/26Fetched 21/26Fetched 22/26Fetched 23/26Fetched 24/26Fetched 25/26Fetched 26/26
+Output directory /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf already exists (maybe with json files). Remove it and continue... 
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf/a2d860b7269202c270b7432c1d86d587.json requested for plotting
+TIMER [finished reading JSON from files]: 0.000304 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 2.1e-05 seconds
+Water  Stopping power (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.016851 seconds
+TIMER [finished ROOT SaveAs()]: 0.120995 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf

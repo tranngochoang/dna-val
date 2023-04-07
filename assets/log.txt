@@ -1063,3 +1063,238 @@ glob_max_y = -1e+07
 TIMER [finished ROOT filling and styling]: 0.02359 seconds
 TIMER [finished ROOT SaveAs()]: 0.207843 seconds
 /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf
+[main 94f40cb] TestEm12/electron.conf/MyTag : ven. avril  7 17:16:35 CEST 2023
+ 5 files changed, 1287 insertions(+)
+ rewrite assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf.png (98%)
+IT IS CLEAN
+Pushing data!!!
+[('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf/6e2500cbec6e29a0ff299fa40043ee58.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf'), ('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf/ccc8468ea56c92cbc8fc320bfff36d91.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf'), ('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf/5532d282b02a0d5d93ca9ebb524a1ea3.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf')]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[9.757086, 12.53097, 13.92577, 15.3973, 16.47588, 18.18937, 19.78291, 21.60734, 22.78843, 24.19129, 25.14375, 26.24611, 26.06059, 26.00716, 25.03685, 24.45795, 23.11261, 21.45796, 19.56686, 17.61073, 15.60134, 12.9772, 11.89635, 9.869145, 8.516228, 7.014099, 5.66388, 4.427046, 3.484429, 2.855966, 2.282125, 1.635446, 1.157526, 0.8665593, 0.637585, 0.5185716, 0.3418379, 0.2740392, 0.1816842, 0.1523855, 0.08063587, 0.06557348, 0.02735715, 0.01576569, 0.01645999, 0.03242478, 0.03428548, 0.01352844, 0.01257721, 0.001038388]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[6.704634, 10.29602, 12.04831, 13.24776, 14.28443, 15.41832, 16.5242, 17.86088, 19.28809, 20.03141, 20.94152, 21.83835, 22.2637, 22.12061, 22.70568, 22.37664, 21.71522, 21.11662, 20.01154, 19.11211, 17.77089, 16.24795, 15.36198, 13.74446, 12.25673, 10.83523, 9.437793, 7.930742, 6.766214, 5.607867, 4.580056, 3.92965, 3.135211, 2.5609, 2.063764, 1.664814, 1.395064, 1.13003, 0.8186604, 0.6725831, 0.573231, 0.3724111, 0.3016679, 0.218477, 0.1785311, 0.1884407, 0.1220172, 0.09753333, 0.04664788, 0.02533389]
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf/6e2500cbec6e29a0ff299fa40043ee58.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/TestEm12/electron.conf/284990aa3398f449caf81d2c863f07f2.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/TestEm12/electron.conf/05dab4ea69edcf3f0d83e677e97bcd99.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/TestEm12/electron.conf/c7d5d8aa55717439378ee774c294873e.json requested for plotting
+TIMER [finished reading JSON from files]: 0.001166 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 4.1e-05 seconds
+G4_WATER  DPK
+G4_WATER  DPK
+G4_WATER  DPK
+G4_WATER  DPK
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.017494 seconds
+TIMER [finished ROOT SaveAs()]: 0.244283 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_TestEm12_electron.conf__dna_opt4
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf/6e2500cbec6e29a0ff299fa40043ee58.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/TestEm12/electron.conf/284990aa3398f449caf81d2c863f07f2.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/TestEm12/electron.conf/05dab4ea69edcf3f0d83e677e97bcd99.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/TestEm12/electron.conf/c7d5d8aa55717439378ee774c294873e.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_TestEm12_electron.conf__dna_opt4 -f png -y log -x log
+args.project :  geant4
+args.version :  MyTag
+Directory /home/tran/GEANT4/geant-web-app/OUTPUT/geant4/MyTag/x86_64/chem6/electron.conf already exists (maybe with jobs).
+Remove it and continue... 
+Start to run 3 jobs for test chem6 electron.conf...
+Fetched 1/3Fetched 2/3Fetched 3/3
+Output directory /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/chem6/electron.conf already exists (maybe with json files). Remove it and continue... 
+
+Processing plotG_LET.C...
+
+Processing plotG_LET.C...
+
+Processing plotG_LET.C...
+
+Processing plotG_time.C...
+
+Processing plotG_time.C...
+
+Processing plotG_time.C...
+args.project :  geant4
+args.version :  MyTag
+Directory /home/tran/GEANT4/geant-web-app/OUTPUT/geant4/MyTag/x86_64/moleculardna/energy.conf already exists (maybe with jobs).
+Remove it and continue... 
+Start to run 22 jobs for test moleculardna energy.conf...
+Fetched 1/22Fetched 2/22Fetched 3/22Fetched 4/22Fetched 5/22Fetched 6/22Fetched 7/22Fetched 8/22Fetched 9/22Fetched 10/22Fetched 11/22Fetched 12/22Fetched 13/22Fetched 14/22Fetched 15/22Fetched 16/22Fetched 17/22Fetched 18/22Fetched 19/22Fetched 20/22Fetched 21/22Fetched 22/22
+Output directory /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf already exists (maybe with json files). Remove it and continue... 
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.01	 mean_DSB : 0.04501 SD_DSB : 0.000671152
+Energy [/MeV] : 0.01	 mean_DSB : 0.04144 SD_DSB : 0.000642831
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.03	 mean_DSB : 0.01219 SD_DSB : 0.000349307
+Energy [/MeV] : 0.03	 mean_DSB : 0.01103 SD_DSB : 0.000334192
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.0002	 mean_DSB : 0.00103 SD_DSB : 0.000101437
+Energy [/MeV] : 0.0002	 mean_DSB : 0.00096 SD_DSB : 9.7933e-05
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.0045	 mean_DSB : 0.01977 SD_DSB : 0.00044429
+Energy [/MeV] : 0.02	 mean_DSB : 0.02036 SD_DSB : 0.000450396
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.2	 mean_DSB : 0.00257 SD_DSB : 0.00016073
+Energy [/MeV] : 0.2	 mean_DSB : 0.00282 SD_DSB : 0.000167692
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.0045	 mean_DSB : 0.02172 SD_DSB : 0.000464419
+Energy [/MeV] : 0.02	 mean_DSB : 0.01731 SD_DSB : 0.00041654
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.0005	 mean_DSB : 0.00307 SD_DSB : 0.000174946
+Energy [/MeV] : 0.0005	 mean_DSB : 0.00285 SD_DSB : 0.00016858
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.001	 mean_DSB : 0.00571 SD_DSB : 0.000238274
+Energy [/MeV] : 0.001	 mean_DSB : 0.00565 SD_DSB : 0.000237026
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 1	 mean_DSB : 0.0016 SD_DSB : 0.000126391
+Energy [/MeV] : 1	 mean_DSB : 0.00172 SD_DSB : 0.000131798
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.0001	 mean_DSB : 0.00051 SD_DSB : 7.13964e-05
+Energy [/MeV] : 0.0001	 mean_DSB : 0.00044 SD_DSB : 6.63182e-05
+
+Processing cylinders_plot.C("molecular-dna.root")...
+
+Processing cylinders_plot.C("molecular-dna.root")...
+Energy [/MeV] : 0.1	 mean_DSB : 0.00461 SD_DSB : 0.000215146
+Energy [/MeV] : 0.1	 mean_DSB : 0.00376 SD_DSB : 0.000194059
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf/ab3a38be4d7e8d6650281d8445cec317.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf/966c47ff3ff21b3bd3531051a49a6312.json requested for plotting
+TIMER [finished reading JSON from files]: 0.000738 seconds
+X axis: LOG
+Y axis: LIN
+TIMER [finished cli interface. starts ROOT stuff]: 4.3e-05 seconds
+cylinders  DSB (/particle)
+cylinders  DSB (/particle)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.018812 seconds
+TIMER [finished ROOT SaveAs()]: 0.115381 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/moleculardna/energy.conf

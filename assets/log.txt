@@ -270,3 +270,137 @@ glob_max_y = -1e+07
 TIMER [finished ROOT filling and styling]: 0.019359 seconds
 TIMER [finished ROOT SaveAs()]: 0.160967 seconds
 /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf
+[main 8db48d4] range/electron.conf/MyTag : ven. avril  7 16:31:27 CEST 2023
+ 5 files changed, 1361 insertions(+)
+IT IS CLEAN
+Pushing data!!!
+[('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8a9ac9f5f84696a18319565eb2853f23.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf'), ('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/9cee61e71e6edcc93f45cd214c8b0f9d.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf'), ('/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8600b275569a62cd5043f92637bf7cdc.json', '/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf')]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8600b275569a62cd5043f92637bf7cdc.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/5aa2989d8a439dc2905bf854e7a15997.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/4886e15aec529405cb3bb3f28a8f33ee.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/141132628ab3e677227f1912c3064465.json requested for plotting
+TIMER [finished reading JSON from files]: 0.001004 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 1.6e-05 seconds
+Water  Distance (nm)
+Water  y (keV/um)
+Water  y (keV/um)
+Water  y (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.016878 seconds
+TIMER [finished ROOT SaveAs()]: 0.177776 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt2
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8600b275569a62cd5043f92637bf7cdc.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/5aa2989d8a439dc2905bf854e7a15997.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/4886e15aec529405cb3bb3f28a8f33ee.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/141132628ab3e677227f1912c3064465.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt2 -f png -y log -x log
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/9cee61e71e6edcc93f45cd214c8b0f9d.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/23890a0c37ea384118d4e2625980d1ad.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/6ae3a16a005f817b86454abc5c2c1733.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/8cf46dc33a719bae6239c40647cb90ce.json requested for plotting
+TIMER [finished reading JSON from files]: 0.001066 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 2.1e-05 seconds
+Water  Distance (nm)
+Water  y (keV/um)
+Water  y (keV/um)
+Water  y (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.016732 seconds
+TIMER [finished ROOT SaveAs()]: 0.178864 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt4
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/9cee61e71e6edcc93f45cd214c8b0f9d.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/23890a0c37ea384118d4e2625980d1ad.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/6ae3a16a005f817b86454abc5c2c1733.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/8cf46dc33a719bae6239c40647cb90ce.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt4 -f png -y log -x log
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8a9ac9f5f84696a18319565eb2853f23.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/88086d9fa3096e055d4d16e572b836c4.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/54a27504c81a93fdca16f79301bc3b18.json requested for plotting
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/2ee17b0b5bdc4ee858b097b6f5fa32fa.json requested for plotting
+TIMER [finished reading JSON from files]: 0.001313 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 4.3e-05 seconds
+Water  Distance (nm)
+Water  y (keV/um)
+Water  y (keV/um)
+Water  y (keV/um)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.016888 seconds
+TIMER [finished ROOT SaveAs()]: 0.187642 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt6
+plotter -j /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf/8a9ac9f5f84696a18319565eb2853f23.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/range/electron.conf/88086d9fa3096e055d4d16e572b836c4.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/range/electron.conf/54a27504c81a93fdca16f79301bc3b18.json /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/range/electron.conf/2ee17b0b5bdc4ee858b097b6f5fa32fa.json  -o /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_range_electron.conf__dna_opt6 -f png -y log -x log
+Fetched 1/13Fetched 2/13Fetched 3/13Fetched 4/13Fetched 5/13Fetched 6/13Fetched 7/13Fetched 8/13Fetched 9/13Fetched 10/13Fetched 11/13Fetched 12/13Fetched 13/13
+Output directory /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/proton.conf already exists (maybe with json files). Remove it and continue... 
+JSON file /home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/proton.conf/680d9774567aaebfbce7bcebd345d3a3.json requested for plotting
+TIMER [finished reading JSON from files]: 0.000491 seconds
+X axis: LOG
+Y axis: LOG
+TIMER [finished cli interface. starts ROOT stuff]: 4.2e-05 seconds
+Water  Distance (nm)
+glob_min_x = 1e+07
+glob_max_x = -1e+07
+glob_min_y = 1e+07
+glob_max_y = -1e+07
+TIMER [finished ROOT filling and styling]: 0.027853 seconds
+TIMER [finished ROOT SaveAs()]: 0.108712 seconds
+/home/tran/GEANT4/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/range/proton.conf

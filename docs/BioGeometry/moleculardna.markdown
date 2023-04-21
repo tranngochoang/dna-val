@@ -90,7 +90,7 @@ Documentation for [moleculardna example]({{"https://geant4-dna.github.io/molecul
 {: .text-left}
 
 ## master
-![Energy]({{"/assets/OUTPUTJSON/geant4/master/x86_64/moleculardna/energy.conf.png" | relative_url}})
+![Energy]({{"/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/moleculardna/energy.conf.png" | relative_url}})
 {: .text-left}
 
 ## 304_11.1.0

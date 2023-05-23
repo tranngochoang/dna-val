@@ -11,7 +11,7 @@
   "metadata": {
     "observableName": "range",
     "reaction": "reaction name",
-    "targetName": "Water",
+    "targetName": "G4_WATER",
     "beamParticle": "alpha",
     "beamEnergies": [
       1000.0,
@@ -77,13 +77,13 @@
       719.2193,
       979.8621,
       1084.018,
-      1179.171,
-      1281.509,
-      1360.635,
-      2084.917,
-      3618.621,
-      4488.066,
-      5799.167
+      1188.997,
+      1278.12,
+      1364.748,
+      2065.81,
+      3617.706,
+      4480.1,
+      5796.534
     ],
     "xStatErrorsPlus": [],
     "xStatErrorsMinus": [],

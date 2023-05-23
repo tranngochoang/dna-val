@@ -5,11 +5,11 @@
   "mctool": {
     "name": "GEANT4",
     "version": "304_11.00",
-    "model": "dna_opt4"
+    "model": "dna_opt2"
   },
   "testName": "range",
   "metadata": {
-    "observableName": "microdosimetry y",
+    "observableName": "range",
     "reaction": "reaction name",
     "targetName": "Water",
     "beamParticle": "proton",
@@ -34,9 +34,9 @@
   "plotType": "SCATTER2D",
   "chart": {
     "nPoints": 13,
-    "title": "microdosimetry y",
+    "title": "Range",
     "xAxisName": "E (eV)",
-    "yAxisName": "y (keV/um)",
+    "yAxisName": "Distance (nm)",
     "xValues": [
       1000.0,
       2000.0,
@@ -53,19 +53,19 @@
       1000000.0
     ],
     "yValues": [
-      97.244,
-      162.2913,
-      259.5318,
-      333.001,
-      450.4906,
-      661.9796,
-      824.0758,
-      967.2246,
-      1468.578,
-      1713.294,
-      4752.093,
-      11555.04,
-      24687.32
+      97.12803,
+      162.9668,
+      259.0617,
+      333.2507,
+      450.4957,
+      660.2983,
+      822.9548,
+      966.152,
+      1468.852,
+      1714.888,
+      4752.799,
+      11538.23,
+      24535.28
     ],
     "xStatErrorsPlus": [],
     "xStatErrorsMinus": [],

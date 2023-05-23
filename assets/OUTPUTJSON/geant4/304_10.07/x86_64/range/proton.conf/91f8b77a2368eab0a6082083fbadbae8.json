@@ -9,7 +9,7 @@
   },
   "testName": "range",
   "metadata": {
-    "observableName": "microdosimetry y",
+    "observableName": "range",
     "reaction": "reaction name",
     "targetName": "Water",
     "beamParticle": "proton",
@@ -34,9 +34,9 @@
   "plotType": "SCATTER2D",
   "chart": {
     "nPoints": 13,
-    "title": "microdosimetry y",
+    "title": "Range",
     "xAxisName": "E (eV)",
-    "yAxisName": "y (keV/um)",
+    "yAxisName": "Distance (nm)",
     "xValues": [
       1000.0,
       2000.0,

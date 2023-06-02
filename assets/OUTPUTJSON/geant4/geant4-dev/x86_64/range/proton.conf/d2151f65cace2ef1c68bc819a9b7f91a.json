@@ -5,13 +5,13 @@
   "mctool": {
     "name": "GEANT4",
     "version": "geant4-dev",
-    "model": "dna_opt4"
+    "model": "dna_opt2"
   },
   "testName": "range",
   "metadata": {
     "observableName": "range",
     "reaction": "reaction name",
-    "targetName": "Water",
+    "targetName": "G4_WATER",
     "beamParticle": "proton",
     "beamEnergies": [
       1000.0,
@@ -53,19 +53,19 @@
       1000000.0
     ],
     "yValues": [
-      97.57132,
-      162.4319,
-      258.0688,
-      332.877,
-      451.0972,
-      661.0943,
-      823.9899,
-      965.7859,
-      1468.509,
-      1715.952,
-      4748.439,
-      11560.39,
-      24690.11
+      97.04304,
+      162.9816,
+      258.8597,
+      333.4512,
+      450.2216,
+      661.0639,
+      823.977,
+      965.8948,
+      1470.175,
+      1713.935,
+      4751.859,
+      11531.96,
+      24533.41
     ],
     "xStatErrorsPlus": [],
     "xStatErrorsMinus": [],

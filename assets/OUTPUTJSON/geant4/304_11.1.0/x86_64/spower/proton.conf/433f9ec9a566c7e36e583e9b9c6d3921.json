@@ -11,7 +11,7 @@
   "metadata": {
     "observableName": "stopping power",
     "reaction": "reaction name",
-    "targetName": "Water",
+    "targetName": "G4_WATER",
     "beamParticle": "proton",
     "beamEnergies": [
       1000.0,

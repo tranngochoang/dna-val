@@ -30,6 +30,9 @@ Macro file
 ![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron.conf.png" | relative_url}})
 {: .text-left}
 
+![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range/electron_DNA.conf.png" | relative_url}})
+{: .text-left}
+
 ![range]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/range/proton.conf.png" | relative_url}})
 {: .text-left}
 
@@ -39,6 +42,9 @@ Macro file
 ## master
 
 ![range]({{"assets/OUTPUTJSON/geant4/geant4-dev/x86_64/range/electron.conf.png" | relative_url}})
+{: .text-left}
+
+![range]({{"assets/OUTPUTJSON/geant4/geant4-dev/x86_64/range/electron_DNA.conf.png" | relative_url}})
 {: .text-left}
 
 ![range]({{"assets/OUTPUTJSON/geant4/geant4-dev/x86_64/range/proton.conf.png" | relative_url}})

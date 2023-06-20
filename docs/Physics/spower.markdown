@@ -29,6 +29,9 @@ Macro file
 ![spower]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf.png" | relative_url}})
 {: .text-left}
 
+![spower]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron_DNA.conf.png" | relative_url}})
+{: .text-left}
+
 ![spower]({{"assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf.png" | relative_url}})
 {: .text-left}
 
@@ -38,6 +41,9 @@ Macro file
 ## master
 
 ![spower]({{"assets/OUTPUTJSON/geant4/geant4-dev/x86_64/spower/electron.conf.png" | relative_url}})
+{: .text-left}
+
+![spower]({{"assets/OUTPUTJSON/geant4/geant4-dev/x86_64/spower/electron_DNA.conf.png" | relative_url}})
 {: .text-left}
 
 ![spower]({{"assets/OUTPUTJSON/geant4/geant4-dev/x86_64/spower/proton.conf.png" | relative_url}})
@@ -104,6 +110,8 @@ Macro file
 ![spower]({{"assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt6.png" | relative_url}})
 {: .text-left}
 
+![spower]({{"assets/OUTPUTJSON/MyTag_geant4-dev_spower_electron_DNA.conf__dna_opt6.png" | relative_url}})
+{: .text-left}
 
 - 303_11.1.0 4 : dna_opt4 in version G4.11.1.0
 

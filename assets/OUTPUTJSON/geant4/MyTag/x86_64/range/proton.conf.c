@@ -3806,3 +3806,139 @@ double gvp_id-1_yerrors[13] = {
   0,
   0
 };
+// Tool:               GEANT4
+// Version:            MyTag
+// Model:              dna_opt2
+// Observable:         range
+// Target:             G4_WATER
+// Beam Particle:      proton
+// Secondary Particle: None
+
+double gvp_id-1_x[13] = {
+  1000,
+  2000,
+  4000,
+  6000,
+  10000,
+  20000,
+  30000,
+  40000,
+  80000,
+  100000,
+  300000,
+  600000,
+  1e+06
+};
+double gvp_id-1_y[13] = {
+  97.6768,
+  161.511,
+  259.129,
+  332.394,
+  450.079,
+  661.253,
+  824.282,
+  967.489,
+  1469.36,
+  1714.92,
+  4753.22,
+  11610.1,
+  25102.4
+};
+double gvp_id-1_xerrors[13] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[13] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+// Tool:               GEANT4
+// Version:            MyTag
+// Model:              dna_opt4
+// Observable:         range
+// Target:             G4_WATER
+// Beam Particle:      proton
+// Secondary Particle: None
+
+double gvp_id-1_x[13] = {
+  1000,
+  2000,
+  4000,
+  6000,
+  10000,
+  20000,
+  30000,
+  40000,
+  80000,
+  100000,
+  300000,
+  600000,
+  1e+06
+};
+double gvp_id-1_y[13] = {
+  97.6768,
+  161.511,
+  257.88,
+  334.115,
+  449.909,
+  661.551,
+  823.234,
+  965.74,
+  1468.63,
+  1713.55,
+  4745.86,
+  11617,
+  25111.6
+};
+double gvp_id-1_xerrors[13] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[13] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};

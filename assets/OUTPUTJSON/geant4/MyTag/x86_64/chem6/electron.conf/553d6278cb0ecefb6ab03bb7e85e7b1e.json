@@ -1,0 +1,69 @@
+{
+  "article": {
+    "inspireId": -1
+  },
+  "mctool": {
+    "name": "LET",
+    "version": "MyTag",
+    "model": "IRT"
+  },
+  "testName": "chem6",
+  "metadata": {
+    "observableName": "H2O2^0",
+    "reaction": "reaction name",
+    "targetName": "G4_WATER",
+    "beamParticle": "e-",
+    "beamEnergies": [
+      9.24756,
+      5.9739,
+      3.07537,
+      2.14307,
+      1.00056,
+      0.456086,
+      0.158677
+    ],
+    "secondaryParticle": "None",
+    "parameters": []
+  },
+  "plotType": "SCATTER2D",
+  "chart": {
+    "nPoints": 7,
+    "title": "G-value in LET",
+    "xAxisName": "LET (keV/um)",
+    "yAxisName": "G-value (species/100eV)",
+    "xValues": [
+      9.24756,
+      5.9739,
+      3.07537,
+      2.14307,
+      1.00056,
+      0.456086,
+      0.158677
+    ],
+    "yValues": [
+      0.892939,
+      0.819763,
+      0.741018,
+      0.719869,
+      0.675389,
+      0.647411,
+      0.62972
+    ],
+    "xStatErrorsPlus": [],
+    "xStatErrorsMinus": [],
+    "yStatErrorsPlus": [
+      0.00175365,
+      0.00148253,
+      0.00118396,
+      0.00279725,
+      0.00221687,
+      0.00206559,
+      0.00189009
+    ],
+    "yStatErrorsMinus": [],
+    "xSysErrorsPlus": [],
+    "xSysErrorsMinus": [],
+    "ySysErrorsPlus": [],
+    "ySysErrorsMinus": []
+  }
+}

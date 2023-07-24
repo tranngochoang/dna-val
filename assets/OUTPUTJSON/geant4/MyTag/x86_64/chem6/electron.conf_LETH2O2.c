@@ -1054,3 +1054,135 @@ double gvp_id-1_yerrors[7] = {
   0.00146059,
   0.0013365
 };
+// Tool:               LET
+// Version:            MyTag
+// Model:              SBS
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  8.9637,
+  5.743,
+  3.1572,
+  2.38772,
+  0.986484,
+  0.465186,
+  0.156414
+};
+double gvp_id-1_y[7] = {
+  0.901362,
+  0.799303,
+  0.74784,
+  0.734558,
+  0.680225,
+  0.656553,
+  0.646748
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00836564,
+  0.00767204,
+  0.00611804,
+  0.011909,
+  0.0126719,
+  0.0125094,
+  0.0091209
+};
+// Tool:               LET
+// Version:            MyTag
+// Model:              IRT_syn
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.2597,
+  6.00688,
+  3.09628,
+  2.13008,
+  1.16584,
+  0.457528,
+  0.158069
+};
+double gvp_id-1_y[7] = {
+  0.928013,
+  0.852791,
+  0.774451,
+  0.753985,
+  0.705947,
+  0.688935,
+  0.669206
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00164609,
+  0.00138407,
+  0.00111528,
+  0.00243991,
+  0.00216733,
+  0.00186698,
+  0.001823
+};
+// Tool:               LET
+// Version:            MyTag
+// Model:              IRT
+// Observable:         H2O2^0
+// Target:             G4_WATER
+// Beam Particle:      e-
+// Secondary Particle: None
+
+double gvp_id-1_x[7] = {
+  9.24756,
+  5.9739,
+  3.07537,
+  2.14307,
+  1.00056,
+  0.456086,
+  0.158677
+};
+double gvp_id-1_y[7] = {
+  0.892198,
+  0.819687,
+  0.740933,
+  0.719118,
+  0.676099,
+  0.647311,
+  0.629438
+};
+double gvp_id-1_xerrors[7] = {
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+};
+double gvp_id-1_yerrors[7] = {
+  0.00124522,
+  0.00104887,
+  0.000840573,
+  0.00197305,
+  0.00155832,
+  0.00145212,
+  0.0013369
+};

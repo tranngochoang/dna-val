@@ -9,7 +9,7 @@
   },
   "testName": "chem6",
   "metadata": {
-    "observableName": "OH^0",
+    "observableName": "e_aq^-1",
     "reaction": "reaction name",
     "targetName": "G4_WATER",
     "beamParticle": "e-",
@@ -41,24 +41,24 @@
       0.158677
     ],
     "yValues": [
-      1.53056,
-      1.81758,
-      2.20707,
-      2.3135,
-      2.53322,
-      2.66142,
-      2.73887
+      1.55504,
+      1.79067,
+      2.17652,
+      2.29267,
+      2.52246,
+      2.64627,
+      2.72253
     ],
     "xStatErrorsPlus": [],
     "xStatErrorsMinus": [],
     "yStatErrorsPlus": [
-      0.00321247,
-      0.00331703,
-      0.00327374,
-      0.00860021,
-      0.00769708,
-      0.00747362,
-      0.00705106
+      0.00282726,
+      0.00284669,
+      0.00284577,
+      0.00774881,
+      0.00697935,
+      0.00683957,
+      0.00653728
     ],
     "yStatErrorsMinus": [],
     "xSysErrorsPlus": [],

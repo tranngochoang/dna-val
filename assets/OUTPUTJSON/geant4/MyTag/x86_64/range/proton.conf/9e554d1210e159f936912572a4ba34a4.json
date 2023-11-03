@@ -1,0 +1,79 @@
+{
+  "article": {
+    "inspireId": -1
+  },
+  "mctool": {
+    "name": "GEANT4",
+    "version": "MyTag",
+    "model": "dna_opt4"
+  },
+  "testName": "range",
+  "metadata": {
+    "observableName": "range",
+    "reaction": "reaction name",
+    "targetName": "G4_WATER",
+    "beamParticle": "proton",
+    "beamEnergies": [
+      1000.0,
+      2000.0,
+      4000.0,
+      6000.0,
+      10000.0,
+      20000.0,
+      30000.0,
+      40000.0,
+      80000.0,
+      100000.0,
+      300000.0,
+      600000.0,
+      1000000.0
+    ],
+    "secondaryParticle": "None",
+    "parameters": []
+  },
+  "plotType": "SCATTER2D",
+  "chart": {
+    "nPoints": 13,
+    "title": "Range",
+    "xAxisName": "E (eV)",
+    "yAxisName": "Distance (nm)",
+    "xValues": [
+      1000.0,
+      2000.0,
+      4000.0,
+      6000.0,
+      10000.0,
+      20000.0,
+      30000.0,
+      40000.0,
+      80000.0,
+      100000.0,
+      300000.0,
+      600000.0,
+      1000000.0
+    ],
+    "yValues": [
+      97.58927,
+      161.5238,
+      258.1498,
+      333.2524,
+      451.234,
+      661.449,
+      823.1384,
+      965.0857,
+      1467.96,
+      1716.186,
+      4748.456,
+      11557.35,
+      24683.47
+    ],
+    "xStatErrorsPlus": [],
+    "xStatErrorsMinus": [],
+    "yStatErrorsPlus": [],
+    "yStatErrorsMinus": [],
+    "xSysErrorsPlus": [],
+    "xSysErrorsMinus": [],
+    "ySysErrorsPlus": [],
+    "ySysErrorsMinus": []
+  }
+}

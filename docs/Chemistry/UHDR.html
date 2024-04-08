@@ -1,0 +1,61 @@
+<p>Documentation for <a href="https://doi.org/10.3390/ijms22116023">UHDR example</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/run/numberOfThreads 60
+/process/dna/e-SolvationSubType Meesungnoen2002
+#/process/dna/e-SolvationSubType Ritchie1994
+#/process/dna/e-SolvationSubType Terrisol1990
+
+# Set the simulation volume (half Side Length)
+#/UHDR/env/volume 0.8 um # for UHDR
+/UHDR/env/volume %SideLength% um # for CONV
+
+/run/initialize
+
+# time structure (not available)
+#/UHDR/pulse/activate true
+
+# pH and Scavenger
+/UHDR/env/pH 5.5
+
+# Oxygen concentration
+/UHDR/env/scavenger O2 %OXYGEN% %
+
+/chem/reaction/print
+
+#/run/verbose 1
+/tracking/verbose 0
+/scheduler/verbose 0
+/scheduler/endTime 1 s
+
+# set false if many beamOn in medium
+/scheduler/ResetScavengerForEachBeamOn true
+
+/scorer/Gvalues/nOfTimeBins 80
+
+/run/printProgress 100
+
+/scorer/Dose/cutoff %DOSE% Gy
+/UHDR/source/particle %PARTICLE%
+/UHDR/source/energy %ENERGY% %ENERGY_UNIT%
+/run/beamOn %NEVENTS%
+
+</code></pre></div></div>
+
+<h1 id="for-version">For version</h1>
+<h2 id="mytag">MyTag</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/UHDR/electron.conf_TIMEOH.png" alt="G-value" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/UHDR/electron.conf_TIMEH2O2.png" alt="G-value" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/UHDR/electron.conf_TIMEe_aq.png" alt="G-value" /></p>
+
+<h2 id="master">master</h2>
+
+<h3 id="in-time">in time</h3>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/UHDR/electron.conf_TIMEOH.png" alt="G-value" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/UHDR/electron.conf_TIMEH2O2.png" alt="G-value" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/UHDR/electron.conf_TIMEe_aq.png" alt="G-value" /></p>
+
+<h1 id="comparison-between-geant4-versions">Comparison between Geant4 versions</h1>

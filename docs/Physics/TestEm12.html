@@ -1,0 +1,57 @@
+<p>Documentation for <a href="http://dx.doi.org/10.1016/j.nimb.2017.02.044">TestEm12 example</a></p>
+
+<p>Macro file</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/control/cout/ignoreThreadsExcept 0
+/control/verbose 2
+/run/verbose 2
+#
+/testem/det/setMat %MATERIAL%
+/testem/det/setRadius  100 nm
+#
+/testem/phys/addPhysics  %PHYSLIST%
+#
+/run/initialize
+#
+/gun/particle %PARTICLE%
+/gun/energy %ENERGY% %ENERGY_UNIT%
+#
+/analysis/setFileName dna
+/analysis/h1/set 1 50  0.   100 nm	#edep profile
+/analysis/h1/set 3 50  0.   300 nm	#true track length
+#
+/testem/applyAutomaticStepMax true
+#
+/run/printProgress 1000
+/run/beamOn %NEVENTS%
+</code></pre></div></div>
+<h1 id="for-version">For version</h1>
+
+<h2 id="mytag">MyTag</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/TestEm12/electron.conf.png" alt="icsd" /></p>
+
+<h2 id="master">master</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/TestEm12/electron.conf.png" alt="icsd" /></p>
+
+<h2 id="304_1110">304_11.1.0</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/TestEm12/electron.conf.png" alt="icsd" /></p>
+
+<h2 id="304_1100">304_11.00</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/TestEm12/electron.conf.png" alt="icsd" /></p>
+
+<h2 id="304_1007">304_10.07</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/TestEm12/electron.conf.png" alt="spower" /></p>
+
+<h1 id="comparison-between-geant4-versions">Comparison between Geant4 versions</h1>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_TestEm12_electron.conf__icsd.png" alt="spower" /></p>
+
+<ul>
+  <li>
+    <p>303_11.1.0 4 : dna_opt4 in version G4.11.1.0</p>
+  </li>
+  <li>
+    <p>MyTag 2 : dna_opt2 in version MyTag</p>
+  </li>
+</ul>

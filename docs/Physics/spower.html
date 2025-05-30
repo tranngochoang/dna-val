@@ -1,0 +1,90 @@
+<p>Documentation for <a href="https://doi.org/10.1002/mp.13048">spower example</a></p>
+
+<p>Macro file</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/run/numberOfThreads 2
+#
+/spower/det/setMat G4_WATER
+/spower/det/setRadius 1 m
+#
+/spower/phys/addPhysics  %PHYSLIST%
+#
+/run/initialize
+#
+/gun/particle %PARTICLE%
+#
+/gun/energy %ENERGY% %ENERGY_UNIT%
+/run/beamOn %NEVENTS%
+</code></pre></div></div>
+<h1 id="for-version">For version</h1>
+<h2 id="mytag">MyTag</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/electron_DNA.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/proton.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/spower/alpha.conf.png" alt="spower" /></p>
+
+<h2 id="master">master</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/spower/electron.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/spower/electron_DNA.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/spower/proton.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/spower/alpha.conf.png" alt="spower" /></p>
+
+<h2 id="g41110">G4.11.1.0</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/electron.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/proton.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/spower/alpha.conf.png" alt="spower" /></p>
+
+<h2 id="g41100">G4.11.00</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/electron.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/proton.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/spower/alpha.conf.png" alt="spower" /></p>
+
+<h2 id="g41007">G4.10.07</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/electron.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/proton.conf.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/spower/alpha.conf.png" alt="spower" /></p>
+
+<h1 id="comparison-between-geant4-versions">Comparison between Geant4 versions</h1>
+<h2 id="dna_opt4">dna_opt4</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt4.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_proton.conf__dna_stat_opt4.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_alpha.conf__dna_stat_opt4.png" alt="spower" /></p>
+
+<h2 id="dna_opt2">dna_opt2</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt2.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_proton.conf__dna_stat_opt2.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_alpha.conf__dna_stat_opt2.png" alt="spower" /></p>
+
+<h2 id="dna_opt6">dna_opt6</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0_304_11.00_304_10.07_spower_electron.conf__dna_stat_opt6.png" alt="spower" /></p>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_geant4-dev_spower_electron_DNA.conf__dna_opt6.png" alt="spower" /></p>
+
+<ul>
+  <li>
+    <p>303_11.1.0 4 : dna_opt4 in version G4.11.1.0</p>
+  </li>
+  <li>
+    <p>MyTag 2 : dna_opt2 in version MyTag</p>
+  </li>
+</ul>

@@ -1,0 +1,62 @@
+<p>Documentation for <a href="https://doi.org/10.1063/1.4992076">microyz example</a></p>
+
+<p>Macro file</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#/run/numberOfThreads 2
+#
+/tracking/verbose 0
+#
+/microyz/phys/addPhysics  %PHYSLIST%              
+#
+/microyz/det/Radius 2 nm
+/run/initialize
+#
+/process/em/fluo true
+/process/em/auger true
+/process/em/augerCascade true
+/process/em/pixe true
+/process/em/deexcitationIgnoreCut true 
+#
+/gun/particle %PARTICLE%
+#
+/gun/energy %ENERGY% %ENERGY_UNIT%
+#
+/run/printProgress 100
+#
+/process/inactivate e-_G4DNAVibExcitation %G4DNAVibExcitationOFF% 
+/process/inactivate e-_G4DNAAttachment    %G4DNAAttachmentOFF%
+#
+/run/beamOn %NEVENTS%
+</code></pre></div></div>
+
+<h1 id="for-version">For version</h1>
+<h2 id="mytag">MyTag</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/MyTag/x86_64/microyz/params.conf.png" alt="y-value" /></p>
+
+<h2 id="master">master</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/geant4-dev/x86_64/microyz/params.conf.png" alt="y-value" /></p>
+
+<h2 id="304_1110">304_11.1.0</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.1.0/x86_64/microyz/params.conf.png" alt="y-value" /></p>
+
+<h2 id="304_1100">304_11.00</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_11.00/x86_64/microyz/params.conf.png" alt="y-value" /></p>
+
+<h2 id="304_1007">304_10.07</h2>
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/geant4/304_10.07/x86_64/microyz/params.conf.png" alt="y-value" /></p>
+
+<h1 id="comparison-between-geant4-versions">Comparison between Geant4 versions</h1>
+
+<h2 id="dna_opt4">dna_opt4</h2>
+
+<p class="text-left"><img src="/dna-val/assets/OUTPUTJSON/MyTag_304_11.1.0microyz__dna_opt4.png" alt="y-value" /></p>
+
+<ul>
+  <li>
+    <p>303_11.1.0 4 : dna_opt4 in version G4.11.1.0</p>
+  </li>
+  <li>
+    <p>MyTag 2 : dna_opt2 in version MyTag</p>
+  </li>
+</ul>

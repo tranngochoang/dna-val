@@ -1,0 +1,97 @@
+{
+  "article": {
+    "inspireId": -1
+  },
+  "mctool": {
+    "name": "GEANT4",
+    "version": "MyTag",
+    "model": "4"
+  },
+  "testName": "moleculardna",
+  "metadata": {
+    "observableName": "moleculardna DSB",
+    "reaction": "reaction name",
+    "targetName": "cylinders",
+    "beamParticle": "e-",
+    "beamEnergies": [
+      100.0,
+      200.0,
+      500.0,
+      1000.0,
+      4500.0,
+      10000.0,
+      20000.0,
+      30000.0,
+      100000.0,
+      200000.0,
+      1000000.0
+    ],
+    "secondaryParticle": "None",
+    "parameters": []
+  },
+  "plotType": "SCATTER2D",
+  "chart": {
+    "nPoints": 11,
+    "title": "microdosimetry y",
+    "xAxisName": "E (eV)",
+    "yAxisName": "DSB (/particle)",
+    "xValues": [
+      100.0,
+      200.0,
+      500.0,
+      1000.0,
+      4500.0,
+      10000.0,
+      20000.0,
+      30000.0,
+      100000.0,
+      200000.0,
+      1000000.0
+    ],
+    "yValues": [
+      0.00045,
+      0.0011,
+      0.00256,
+      0.00555,
+      0.02238,
+      0.0458,
+      0.02056,
+      0.01269,
+      0.00458,
+      0.00302,
+      0.00183
+    ],
+    "xStatErrorsPlus": [],
+    "xStatErrorsMinus": [],
+    "yStatErrorsPlus": [
+      6.706728e-05,
+      0.0001048237,
+      0.0001597959,
+      0.0002349309,
+      0.0004726453,
+      0.0006727764,
+      0.0004531831,
+      0.0003559367,
+      0.0002144544,
+      0.0001740951,
+      0.0001351543
+    ],
+    "yStatErrorsMinus": [
+      6.706728e-05,
+      0.0001048237,
+      0.0001597959,
+      0.0002349309,
+      0.0004726453,
+      0.0006727764,
+      0.0004531831,
+      0.0003559367,
+      0.0002144544,
+      0.0001740951,
+      0.0001351543
+    ],
+    "xSysErrorsPlus": [],
+    "xSysErrorsMinus": [],
+    "ySysErrorsPlus": [],
+    "ySysErrorsMinus": []
+  }
+}
